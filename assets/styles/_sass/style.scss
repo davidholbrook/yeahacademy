@@ -36,6 +36,17 @@ $yeah: #f8aa29;
 	color: #4a4a4a;
 }
 
+.primary-button{
+  font-size: .87rem;
+  font-weight: $font-weight-heavy;
+  color: #ffffff;
+  text-decoration: none;
+
+  background-color: $the-academy;
+  padding: .56rem 3.06rem;
+  border-radius: 10px;
+  margin-top: 2.31rem;
+}
 // styles
 
 .header{
@@ -87,4 +98,16 @@ $yeah: #f8aa29;
       color: #ffffff;
       font-weight: $font-weight-heavy;
     }
+}
+
+.coursework {
+  text-align: center;
+  padding-bottom: 3rem;
+  padding-right: 2rem;
+  border-right: 2px #686868 solid;
+
+  h2{
+    @extend .homepage-titles;
+    text-transform: uppercase;
+  }
 }
