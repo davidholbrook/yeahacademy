@@ -201,8 +201,7 @@ p {
   text-decoration: none;
   background-color: #ad2620;
   padding: .56rem 3.06rem;
-  border-radius: 10px;
-  margin-top: 2.31rem; }
+  border-radius: 10px; }
 
 .disabled-button {
   background-color: transparent;
@@ -232,7 +231,7 @@ p {
   background: url("../../images/feat-img.jpg") center;
   background-size: cover;
   margin: 0;
-  height: 15rem; }
+  height: 20vw; }
 
 .featText {
   display: flex;
@@ -254,9 +253,16 @@ p {
     font-weight: 700; }
 
 .container--home {
+  margin-top: 1.2rem;
   padding-bottom: 3.125rem; }
-
-.coursework {
-  padding-bottom: 3rem;
-  padding-right: 2rem;
-  margin: 0; }
+  .container--home p {
+    margin-left: 20px;
+    margin-right: 20px; }
+  .container--home .primary-button, .container--home .disabled-button {
+    display: inline-block;
+    margin-bottom: 20px; }
+  .container--home .row [class^="col"] {
+    border-right: 1px solid #999;
+    margin: 0rem 1%;
+    padding-top: 1rem;
+    padding-right: 1%; }
