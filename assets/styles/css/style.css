@@ -173,13 +173,14 @@ p {
   font-weight: bold;
   color: #cd5445; }
 
-.homepage-titles, .coursework h2 {
+.homepage-titles {
   font-family: "Lato", Helvetica, sans-serif;
   font-size: 20px;
   font-weight: bold;
   line-height: 1.6;
   text-align: center;
-  color: #4a4a4a; }
+  color: #4a4a4a;
+  text-transform: uppercase; }
 
 .small-title {
   font-family: "Lato", Helvetica, sans-serif;
@@ -193,7 +194,7 @@ p {
   line-height: 1.43;
   color: #4a4a4a; }
 
-.primary-button {
+.primary-button, .disabled-button {
   font-size: .87rem;
   font-weight: 700;
   color: #ffffff;
@@ -202,6 +203,11 @@ p {
   padding: .56rem 3.06rem;
   border-radius: 10px;
   margin-top: 2.31rem; }
+
+.disabled-button {
+  background-color: transparent;
+  border: #F6D5E0 2px solid;
+  color: #CB7773; }
 
 .topbar {
   background: #ad2620;
@@ -255,5 +261,3 @@ p {
   padding-right: 2rem;
   margin: 0;
   border-right: 2px #686868 solid; }
-  .coursework h2 {
-    text-transform: uppercase; }
