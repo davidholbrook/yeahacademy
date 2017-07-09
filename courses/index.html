@@ -7,7 +7,7 @@ category: courses
   {% if post.categories contains 'courses' %}
 	<div class="post">
 		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-		<p class="meta">Date: {{ post.date }}</p>
+		<p class="meta">Date: {{ post.date | date: "%b %d, %Y" }}</p>
 		<div class="entry">
 			{{ post.content | strip_html | truncatewords: 100 }}
 		</div>
