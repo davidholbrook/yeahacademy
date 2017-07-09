@@ -5,9 +5,9 @@ sub-category: science
 title: 'STEM Physics'
 date: 2017-07-08 00:18
 tags: new
-Tutor Name: Dr Bruce Whitney
-Target Group: 7th – 10th Grades
-Class Size Limit:  7 minimum; 15 maximumPrerequisite:  noneClass Type: Full Year
+TutorName: Dr Bruce Whitney
+TargetGroup: 7th – 10th Grades
+ClassSizeLimit:  7 minimum; 15 maximumPrerequisite:  noneClassType: Full Year
 ---
 
 **Mid-year entry available for spring if space is available**

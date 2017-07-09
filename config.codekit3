@@ -45,6 +45,12 @@
 		"oAP": "\/_layouts\/course.html",
 		"oF": 0
 		},
+	"\/_layouts\/courseList.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/courseList.html",
+		"oF": 0
+		},
 	"\/_site\/404.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -459,7 +465,7 @@
 		"oAP": "\/favicon.ico",
 		"oF": 0
 		},
-	"\/favicon.png": {
+	"\/Favicon.png": {
 		"ft": 32768,
 		"iS": 29051,
 		"oA": 0,
