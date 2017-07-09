@@ -1,0 +1,315 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "component": "/Users/dholbrook/Documents/freelance/YEAH Academy/yeahacademy--temp/.cache/dev-404-page.js",
+      "path": "/dev-404-page/",
+      "componentChunkName": "page-component---cache-dev-404-page-js",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ea30d999e6aa8adcba682102381eeae2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/dholbrook/Documents/freelance/YEAH Academy/yeahacademy--temp/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/dholbrook/Documents/freelance/YEAH Academy/yeahacademy--temp/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin component-page-creator",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2a3be1d77b74a01d89a911100ffcef19",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/dholbrook/Documents/freelance/YEAH Academy/yeahacademy--temp/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/dholbrook/Documents/freelance/YEAH Academy/yeahacademy--temp/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin internal-data-bridge",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "baf76eedd3bb698549d5e31af1137f51",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/dholbrook/Documents/freelance/YEAH Academy/yeahacademy--temp/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/dholbrook/Documents/freelance/YEAH Academy/yeahacademy--temp/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin dev-404-page",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8cdc9eba5e0030286613ef52ad16e52d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/dholbrook/Documents/freelance/YEAH Academy/yeahacademy--temp/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/dholbrook/Documents/freelance/YEAH Academy/yeahacademy--temp/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin prod-404",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fc8a505815d018096cdae7f00b4c56f3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/dholbrook/Documents/freelance/YEAH Academy/yeahacademy--temp/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/dholbrook/Documents/freelance/YEAH Academy/yeahacademy--temp/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin query-runner",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8da9f8d54934d244a8ee970db65084ee",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/dholbrook/Documents/freelance/YEAH Academy/yeahacademy--temp/node_modules/gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/dholbrook/Documents/freelance/YEAH Academy/yeahacademy--temp/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.24.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "698cbf08250363051d1e2efb50f2dd8c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/dholbrook/Documents/freelance/YEAH Academy/yeahacademy--temp",
+      "name": "default-site-plugin",
+      "version": "4492b3667245f2e293a43dee99bc333b",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/dholbrook/Documents/freelance/YEAH Academy/yeahacademy--temp",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.15.0"
+          },
+          {
+            "name": "typography",
+            "version": "^0.15.8"
+          },
+          {
+            "name": "typography-breakpoint-constants",
+            "version": "^0.14.0"
+          },
+          {
+            "name": "typography-plugin-code",
+            "version": "^0.15.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "gh-pages",
+            "version": "^0.12.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin default-site-plugin",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "82993d9623239115d88b55a12ee11bf5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "YEAH Academy"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "buildTime": "2017-07-08T23:35:25.188Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5bd3159e4c23b94852024132716c1fd3",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "f05bc95c913ca4da2ba8bb219fbdc8fc"
+  },
+  "pageDataDependencies": {
+    "nodes": {},
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}
