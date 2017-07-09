@@ -56,7 +56,6 @@ $yeah: #f8aa29;
 	color: #CB7773;
 }
 // styles
-
 .header{
 
 }
@@ -137,5 +136,10 @@ $yeah: #f8aa29;
 		margin: 0rem 1%;
 		padding-top: 1rem;
 		padding-right: 1%;
+	}
+	@media (max-width:717px) {
+		.row [class^="col"]{
+			border-right: none;
+		}
 	}
 }
