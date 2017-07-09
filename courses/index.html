@@ -5,6 +5,8 @@ category: courses
 ---
 {% for post in site.posts %}
   {% if post.categories contains 'courses' %}
+  <div class="row">
+    <div class="col-4">
 	<div class="post">
 		<h3 class="title">{{ post.title }}</a></h3>
 		<p class="meta">{{post.TutorName}}</p>
@@ -12,7 +14,8 @@ category: courses
 			{{ post.content | strip_html | truncatewords: 100 }}
       <a href="{{ post.url }}" class="primary-button">More</a>
 		</div>
-
+  </div>
+</div>
 	</div>
   {% endif %}
 {% endfor %}
