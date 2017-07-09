@@ -1,4 +1,38 @@
-@import 'simple-grid.scss';
+@import 'skeleton.scss';
+
+// fonts
+$font-family: 'Lato', Helvetica, sans-serif;
+$font-weight-light: 300;
+$font-weight-regular: 400;
+$font-weight-heavy: 700;
+$font-height: 1.5;
+
+// colors
+$dark-grey: #333447;
+$dark-gray: #333447; // for the Americans
+
+// universal
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  left: 0;
+  top: 0;
+  font-size: 100%;
+}
+
+* {
+  font-family: $font-family;
+  color: $dark-grey;
+  line-height: $font-height;
+}
+
+.center{
+  text-align: center;
+}
 
 // import them colors
 $the-academy: #ad2620;
@@ -46,6 +80,10 @@ $yeah: #f8aa29;
   background-color: $the-academy;
   padding: .56rem 3.06rem;
   border-radius: 10px;
+
+	&:hover{
+		color: #fff
+	}
 }
 
 .disabled-button{
@@ -122,24 +160,23 @@ $yeah: #f8aa29;
 	padding-bottom: 3.125rem;
 
 	p{
+		margin-top: 10px;
 		margin-left: 20px;
 		margin-right: 20px;
+		margin-bottom: 1rem;
 	}
 
 	.primary-button{
 		display: inline-block;
 		margin-bottom: 20px;
+		min-width: 8rem;
 	}
-
-	.row [class^="col"]{
-		border-right: 1px solid #999;
-		margin: 0rem 1%;
-		padding-top: 1rem;
-		padding-right: 1%;
+	// HACK
+	.column, .columns{
+		margin-top: 20px;
+		margin-left: 0%;
 	}
-	@media (max-width:717px) {
-		.row [class^="col"]{
-			border-right: none;
-		}
+	.u-pull-right:first-child{
+		margin-left: 30px;
 	}
 }

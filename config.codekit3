@@ -123,21 +123,18 @@
 		"oAP": "\/_site\/courses\/index.html",
 		"oF": 0
 		},
-	"\/_site\/css\/main.css": {
-		"aP": 1,
+	"\/_site\/css\/skeleton.scss": {
+		"aP": 0,
 		"bl": 0,
-		"ft": 16,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/_site\/css\/main-min.css",
+		"oAP": "\/_site\/css\/skeleton.css",
 		"oF": 0,
-		"oS": 3
-		},
-	"\/_site\/css\/main.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/css\/main.css.map",
-		"oF": 0
+		"oS": 0,
+		"uL": 1
 		},
 	"\/_site\/favicon.ico": {
 		"ft": 8192,
@@ -244,8 +241,8 @@
 		"oF": 0
 		},
 	"\/_stylesheets\/main.scss": {
-		"aP": 1,
-		"bl": 1,
+		"aP": 0,
+		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
@@ -256,7 +253,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_stylesheets\/simple-grid.scss": {
+	"\/_stylesheets\/skeleton.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -264,7 +261,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/simple-grid.css",
+		"oAP": "\/css\/skeleton.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -458,6 +455,19 @@
 		"oA": 2,
 		"oAP": "\/css\/main.css.map",
 		"oF": 0
+		},
+	"\/css\/skeleton.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/skeleton.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/favicon.ico": {
 		"ft": 8192,
