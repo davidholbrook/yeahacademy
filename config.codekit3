@@ -27,22 +27,10 @@
 		"oAP": "\/404.html",
 		"oF": 0
 		},
-	"\/_bios\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_bios\/index.html",
-		"oF": 0
-		},
 	"\/_config.yml": {
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_config.yml",
-		"oF": 0
-		},
-	"\/_courses\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_courses\/index.html",
 		"oF": 0
 		},
 	"\/_layouts\/bio.html": {
@@ -61,6 +49,46 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/404.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/index.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/2017\/07\/08\/AP-Physics-1.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/2017\/07\/08\/AP-Physics-1.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/2017\/07\/08\/LOTR.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/2017\/07\/08\/LOTR.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/index.html",
+		"oF": 0
+		},
+	"\/_site\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/css\/main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/_site\/css\/main.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/css\/main.css.map",
 		"oF": 0
 		},
 	"\/_site\/favicon.ico": {
@@ -161,6 +189,12 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/_site\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/index.html",
+		"oF": 0
+		},
 	"\/_stylesheets\/main.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -186,6 +220,54 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/bios\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bios\/index.html",
+		"oF": 0
+		},
+	"\/courses\/_posts\/2017-07-08-AP-Physics-1.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-08-AP-Physics-1.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-08-LOTR.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-08-LOTR.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/courses\/index.html",
+		"oF": 0
 		},
 	"\/css\/main.css": {
 		"aP": 1,
@@ -2144,7 +2226,7 @@
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -2156,7 +2238,7 @@
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
-		"outputFormat": 0,
+		"outputFormat": 9,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
