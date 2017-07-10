@@ -42,7 +42,7 @@ body {
 }
 
 // import them colors
-$the-academy: #ad2620;
+$the-academy: #112648;
 $building-a: #874e9c;
 $yeah: #f8aa29;
 
@@ -114,6 +114,9 @@ $yeah: #f8aa29;
 }
 .runner{
   margin-left: 4.37rem;
+    @media(max-width: 550px){
+      display: none;
+    }
 }
 .mainNav{
   ul{
@@ -121,6 +124,10 @@ $yeah: #f8aa29;
     display: flex;
 
     margin-right: 1rem;
+    @media(max-width: 550px){
+      align-items: center;
+      margin-right: 0rem;
+    }
     li{
       color: #fff;
       margin: 1.5rem 1rem;
@@ -130,36 +137,38 @@ $yeah: #f8aa29;
     }
   }
 }
+.back_btn{
+    margin: 1.5rem 1rem;
+    a{
+      color: #fff;
+      text-decoration: none;
+      border-bottom: 1px solid;
+      font-weight: $font-weight-heavy;
+    }
+}
 .featImg{
   background: url('../../images/feat-img.jpg') center;
   background-size: cover;
 
   margin: 0;
-  height: 13vw;
-}
-@media (min-width: 550px) {
-  .featImg{
-    height: 200px;
-  }
 }
 .featText{
-  display: flex;
-	flex-direction: column;
   padding-top: 1.1rem;
+  // hate myself
+  margin-left: 15rem !important;
+  @media(max-width: 550px){
+    margin-left: 0!important;
+  }
 		h2{
 			font-size: 1.87rem;
 			color: #fff;
 			font-weight: $font-weight-heavy;
-
-			margin-left: 17.31rem;
 			margin-bottom: .5rem;
 		}
     p{
       color: #ffffff;
       font-weight: $font-weight-regular;
       letter-spacing: 1px;
-
-      margin-left: 17.31rem;
 			margin-top: .1rem;
     }
     strong{
@@ -214,9 +223,23 @@ $yeah: #f8aa29;
     }
   }
 }
+.grid{
+  position: relative;
+  width: 100%;
+  max-width: 960px;
+  float: right;
+  @media (max-width: 400px) {
+      width: 85%;
+      padding: 0;
+      margin-top: 0;
+  }
+}
 .meta, .meta strong{
   color: #7f8c8d;
 }
 .warning, .warning strong{
   color: #c0392b;
+}
+.spacer{
+  margin-top: 50px;
 }

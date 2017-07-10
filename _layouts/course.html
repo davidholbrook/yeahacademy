@@ -8,7 +8,7 @@
 <body>
   <div class="header">
     <div class="topbar">
-      <div class="runner"><img src="/images/academyLogo.png"/></div>
+      <div class="back_btn"><a href="/courses/">&larr; Back to Courses</a></div>
       <nav class="mainNav">
         <ul>
           <li>YEAH</li>
@@ -17,21 +17,14 @@
         </ul>
       </nav>
     </div>
-    <div class="featImg col12">
-      <div class="featText col-8">
-        <h2>The Academy</h2>
-        <p>Designed to serve as a tutorial supplement to individual home study programs, <strong>The Academy</strong> is committed to coming alongside of home educating parents and students in Middle, Junior and Senior High School.</p>
-      </div>
     </div>
   </div>
-  <div class="post">
-  	<h3 class="title">{{ page.title }}</h3>
-  	<p class="meta">Date: {{ post.date | date: "%b %d, %Y" }}</p>
-  	<div class="entry">
-  		{{ content }}
-  	</div>
-
+  <div class="container spacer">
+  <div class="eight columns offset-by-one">
+  <h3>{{ page.title }}</h3>
+  <p class="meta">Date Posted: {{ page.date | date: "%B %d, %Y" }}</p>
+    {{ content }}
+    </div>
   </div>
-
 </body>
 </html>

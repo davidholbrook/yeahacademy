@@ -51,64 +51,64 @@
 		"oAP": "\/_layouts\/courseList.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/2017\/07\/08\/3d-Games-and-Simulations.html": {
+	"\/_site\/courses\/3d-Games-and-Simulations.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/2017\/07\/08\/3d-Games-and-Simulations.html",
+		"oAP": "\/_site\/courses\/3d-Games-and-Simulations.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/2017\/07\/08\/AP-Physics-1.html": {
+	"\/_site\/courses\/AP-Physics-1.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/2017\/07\/08\/AP-Physics-1.html",
+		"oAP": "\/_site\/courses\/AP-Physics-1.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/2017\/07\/08\/Composition-and-Intro-to-Research-Writing.html": {
+	"\/_site\/courses\/Composition-and-Intro-to-Research-Writing.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/2017\/07\/08\/Composition-and-Intro-to-Research-Writing.html",
+		"oAP": "\/_site\/courses\/Composition-and-Intro-to-Research-Writing.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/2017\/07\/08\/Contemporary-Issues.html": {
+	"\/_site\/courses\/Contemporary-Issues.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/2017\/07\/08\/Contemporary-Issues.html",
+		"oAP": "\/_site\/courses\/Contemporary-Issues.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/2017\/07\/08\/Creative-Writing-Club.html": {
+	"\/_site\/courses\/Creative-Writing-Club.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/2017\/07\/08\/Creative-Writing-Club.html",
-		"oF": 0
-		},
-	"\/_site\/courses\/2017\/07\/08\/Journalism.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/courses\/2017\/07\/08\/Journalism.html",
-		"oF": 0
-		},
-	"\/_site\/courses\/2017\/07\/08\/LOTR.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/courses\/2017\/07\/08\/LOTR.html",
-		"oF": 0
-		},
-	"\/_site\/courses\/2017\/07\/08\/STEM-Physics.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/courses\/2017\/07\/08\/STEM-Physics.html",
-		"oF": 0
-		},
-	"\/_site\/courses\/2017\/07\/08\/Swedish.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/courses\/2017\/07\/08\/Swedish.html",
+		"oAP": "\/_site\/courses\/Creative-Writing-Club.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/index.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/Journalism.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/Journalism.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/LOTR.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/LOTR.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/STEM-Physics.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/STEM-Physics.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/Swedish.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/Swedish.html",
 		"oF": 0
 		},
 	"\/_stylesheets\/main.scss": {
@@ -342,7 +342,7 @@
 		},
 	"\/images\/academyLogo.png": {
 		"ft": 32768,
-		"iS": 7507,
+		"iS": 7482,
 		"oA": 0,
 		"oAP": "\/images\/academyLogo.png",
 		"oF": 0,
@@ -376,6 +376,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/images\/calendar-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/courses-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/courses-logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
