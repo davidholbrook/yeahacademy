@@ -4,7 +4,7 @@ category: courses
 sub-category: 'English Writing'
 title: 'Intermediate Computer Programming: 3D Games and Simulations'
 date: 2017-07-08 00:19
-tags:   [new]
+tags:   [new, book-required]
 TutorName: Elise Werger (replace Danielle Lee as tutor)TargetGroup: 9th – 12th GradesClassSizeLimit: 6 minimumPrerequisite:  noneClassType: Full Year
 ---
 **Open to mid-year entry if space is available: Students of all experience levels are welcome.**### Class Description: 

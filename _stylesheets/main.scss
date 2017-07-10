@@ -265,12 +265,55 @@ $yeah: #f8aa29;
 
   }
   @media(max-width: 1300px){
-    width: 100%
+    width: 100%;
+    margin-bottom: 0px;
   }
   @media(max-width: 630px){
     float: none;
     margin-top: 0;
     background: none;
+    margin-bottom: 20px;
+  }
+}
+.grid__legend{
+  float: left;
+  width: 200px;
+  margin-top: 60px;
+  margin-left: 25px;
+
+  z-index: -1;
+  position: relative;
+  @media(max-width: 1300px){
+      margin-top: 0px;
+      margin-left: 53px;
+  }
+  @media(max-width: 630px){
+      position: static;
+      margin: 0 0 10px 10px;
+  }
+  h2{
+    font-weight: 900;
+    position: relative;
+
+    text-transform: uppercase;
+    font-size: 2.5rem;
+  }
+  img{
+    margin-top: 10px;
+    margin-right: 10px;
+    vertical-align: sub;
+  }
+  .icons{
+    margin-top: -10px;
+    @media(max-width: 1300px){
+        margin-top: -60px;
+        margin-left: 15.50rem;
+        width: 100%;
+    }
+    @media(max-width: 630px){
+        margin: 0 0 0 10px;
+        width: 100%;
+    }
   }
 }
 .grid{
@@ -278,10 +321,16 @@ $yeah: #f8aa29;
   width: 100%;
   max-width: 1000px;
   float: right;
+  @media(min-width: 1300px){
+    margin-top: -100px;
+  }
+  @media(max-width: 1000px){
+    margin-top: 30px;
+    border-top: 5px solid #999;
+  }
   @media (max-width: 400px) {
       width: 100%;
       padding: 0;
-      margin-top: 0;
   }
 }
 .meta, .meta strong{

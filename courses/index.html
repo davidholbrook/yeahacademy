@@ -7,6 +7,15 @@ category: courses
 <h2>courses</h2>
 <p>Below are all the courses offered and the times offered. We also offer a copy of this list in PDF form as well.</p>
 </div>
+<div class="u-cf"></div>
+<div class="grid__legend">
+<h2>legend</h2>
+<div class="icons">
+<img src="../images/plus-simple-line-icons.svg" alt="new course"> New Course <br />
+<img src="../images/badge-simple-line-icons.svg" alt="AP"> Advance Placement <br />
+<img src="../images/book-open-simple-line-icons.svg" alt="book-required"> Book Required <br />
+</div>
+</div>
 <div class="grid">
 {% for post in site.posts %}
   {% if post.categories contains 'courses' %}
@@ -16,10 +25,10 @@ category: courses
       <img src="../images/plus-simple-line-icons.svg" alt="new course">
     {% endif %}
     {% if post.tags contains 'AP' %}
-      <img src="../images/badge-simple-line-icons.svg" alt="new course">
+      <img src="../images/badge-simple-line-icons.svg" alt="AP">
     {% endif %}
     {% if post.tags contains 'book-required' %}
-      <img src="../images/book-open-simple-line-icons.svg" alt="new course">
+      <img src="../images/book-open-simple-line-icons.svg" alt="book-required">
     {% endif %}
 		<h4 class="meta"><strong>Tutor Name:</strong> {{post.TutorName}}</h4>
     {% if post.TargetGroup %}
