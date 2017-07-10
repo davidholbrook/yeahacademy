@@ -33,6 +33,12 @@
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
+	"\/_includes\/posts.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/posts.html",
+		"oF": 0
+		},
 	"\/_layouts\/bio.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -63,34 +69,28 @@
 		"oAP": "\/_site\/bios\/index.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/3d-Games-and-Simulations.html": {
+	"\/_site\/courses\/education\/3d-Games-and-Simulations.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/3d-Games-and-Simulations.html",
+		"oAP": "\/_site\/courses\/education\/3d-Games-and-Simulations.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/AP-Physics-1.html": {
+	"\/_site\/courses\/english\/creative-writing-club.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/AP-Physics-1.html",
+		"oAP": "\/_site\/courses\/english\/creative-writing-club.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/Composition-and-Intro-to-Research-Writing.html": {
+	"\/_site\/courses\/english\/journalism.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/Composition-and-Intro-to-Research-Writing.html",
+		"oAP": "\/_site\/courses\/english\/journalism.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/Contemporary-Issues.html": {
+	"\/_site\/courses\/english\/LOTR.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/Contemporary-Issues.html",
-		"oF": 0
-		},
-	"\/_site\/courses\/Creative-Writing-Club.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/courses\/Creative-Writing-Club.html",
+		"oAP": "\/_site\/courses\/english\/LOTR.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/index.html": {
@@ -99,28 +99,28 @@
 		"oAP": "\/_site\/courses\/index.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/Journalism.html": {
+	"\/_site\/courses\/languages\/swedish.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/Journalism.html",
+		"oAP": "\/_site\/courses\/languages\/swedish.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/LOTR.html": {
+	"\/_site\/courses\/science\/AP-Physics-I-Algebra-Based-copy.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/LOTR.html",
+		"oAP": "\/_site\/courses\/science\/AP-Physics-I-Algebra-Based-copy.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/STEM-Physics.html": {
+	"\/_site\/courses\/science\/stem-physics.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/STEM-Physics.html",
+		"oAP": "\/_site\/courses\/science\/stem-physics.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/Swedish.html": {
+	"\/_site\/courses\/social\/contemporary-issues.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/Swedish.html",
+		"oAP": "\/_site\/courses\/social\/contemporary-issues.html",
 		"oF": 0
 		},
 	"\/_site\/css\/main.css": {
@@ -325,7 +325,13 @@
 		"oAP": "\/bios\/index.html",
 		"oF": 0
 		},
-	"\/courses\/_posts\/2017-07-08-3d-Games-and-Simulations.md": {
+	"\/courses\/_includes\/posts.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/courses\/_includes\/posts.html",
+		"oF": 0
+		},
+	"\/courses\/_posts\/2017-07-10-3d-Games-and-Simulations.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -334,7 +340,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-08-3d-Games-and-Simulations.html",
+		"oAP": "\/courses\/_posts\/2017-07-10-3d-Games-and-Simulations.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -343,7 +349,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/courses\/_posts\/2017-07-08-AP-Physics-1.md": {
+	"\/courses\/_posts\/2017-07-10-AP-Physics-I-Algebra-Based copy.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -352,7 +358,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-08-AP-Physics-1.html",
+		"oAP": "\/courses\/_posts\/2017-07-10-AP-Physics-I-Algebra-Based copy.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -361,7 +367,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/courses\/_posts\/2017-07-08-Composition-and-Intro-to-Research-Writing.md": {
+	"\/courses\/_posts\/2017-07-10-contemporary-issues.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -370,7 +376,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-08-Composition-and-Intro-to-Research-Writing.html",
+		"oAP": "\/courses\/_posts\/2017-07-10-contemporary-issues.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -379,7 +385,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/courses\/_posts\/2017-07-08-Contemporary-Issues.md": {
+	"\/courses\/_posts\/2017-07-10-creative-writing-club.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -388,7 +394,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-08-Contemporary-Issues.html",
+		"oAP": "\/courses\/_posts\/2017-07-10-creative-writing-club.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -397,7 +403,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/courses\/_posts\/2017-07-08-Creative-Writing-Club.md": {
+	"\/courses\/_posts\/2017-07-10-journalism.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -406,7 +412,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-08-Creative-Writing-Club.html",
+		"oAP": "\/courses\/_posts\/2017-07-10-journalism.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -415,7 +421,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/courses\/_posts\/2017-07-08-Journalism.md": {
+	"\/courses\/_posts\/2017-07-10-LOTR.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -424,7 +430,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-08-Journalism.html",
+		"oAP": "\/courses\/_posts\/2017-07-10-LOTR.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -433,7 +439,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/courses\/_posts\/2017-07-08-LOTR.md": {
+	"\/courses\/_posts\/2017-07-10-stem-physics.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -442,7 +448,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-08-LOTR.html",
+		"oAP": "\/courses\/_posts\/2017-07-10-stem-physics.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -451,7 +457,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/courses\/_posts\/2017-07-08-STEM-Physics.md": {
+	"\/courses\/_posts\/2017-07-10-swedish.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -460,25 +466,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-08-STEM-Physics.html",
-		"oF": 0,
-		"oFM": 9,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/courses\/_posts\/2017-07-08-Swedish.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-08-Swedish.html",
+		"oAP": "\/courses\/_posts\/2017-07-10-swedish.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,

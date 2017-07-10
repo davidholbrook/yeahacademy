@@ -16,38 +16,61 @@ category: courses
 <img src="../images/book-open-simple-line-icons.svg" alt="book-required"> Book Required <br />
 </div>
 </div>
+<h2>Fine Arts</h2>
 <div class="grid">
 {% for post in site.posts %}
-  {% if post.categories contains 'courses' %}
-	<div class="post">
-    <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    {% if post.tags contains 'new' %}
-      <img src="../images/plus-simple-line-icons.svg" alt="new course">
-    {% endif %}
-    {% if post.tags contains 'AP' %}
-      <img src="../images/badge-simple-line-icons.svg" alt="AP">
-    {% endif %}
-    {% if post.tags contains 'book-required' %}
-      <img src="../images/book-open-simple-line-icons.svg" alt="book-required">
-    {% endif %}
-		<h4 class="meta"><strong>Tutor Name:</strong> {{post.TutorName}}</h4>
-    {% if post.TargetGroup %}
-    <h4 class="meta"><strong>Target Group:</strong> {{post.TargetGroup}}</h4>
-    {% endif %}
-    {% if post.ClassType %}
-    <h4 class="meta"><strong>Class Type:</strong> {{post.ClassType}}</h4>
-    {% endif %}
-    {% if post.ClassSizeLimit %}
-    <h4 class="warning"><strong>Class Size Limit:</strong> {{post.ClassSizeLimit}}</h4>
-    {% endif %}
-    {% if post.Prerequisite %}
-    <h4 class="warning"><strong>Prerequisite:</strong> {{post.Prerequisite}}</h4>
-    {% endif %}
-		<div class="entry">
-			{{ post.content | strip_html | truncatewords: 75 }}
-		</div>
-    <a href="{{ post.url }}" class="primary-button">More</a>
-  </div>
+  {% if post.category contains 'arts' %}
+	{% include posts.html %}
+  {% endif %}
+{% endfor %}
+</div>
+<h2>Education</h2>
+<div class="grid">
+{% for post in site.posts %}
+  {% if post.category contains 'education' %}
+	{% include posts.html %}
+  {% endif %}
+{% endfor %}
+</div>
+<h2>Languages</h2>
+<div class="grid">
+{% for post in site.posts %}
+  {% if post.category contains 'languages' %}
+	{% include posts.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Mathematics</h2>
+<div class="grid">
+{% for post in site.posts %}
+  {% if post.category contains 'mathematics' %}
+	{% include posts.html %}
+  {% endif %}
+{% endfor %}
+</div>
+<h2>Psychology</h2>
+<div class="grid">
+{% for post in site.posts %}
+  {% if post.category contains 'psychology' %}
+	{% include posts.html %}
+  {% endif %}
+{% endfor %}
+</div>
+
+<h2>Science</h2>
+<div class="grid">
+{% for post in site.posts %}
+  {% if post.category contains 'science' %}
+	{% include posts.html %}
+  {% endif %}
+{% endfor %}
+</div>
+
+<h2>Social</h2>
+<div class="grid">
+{% for post in site.posts %}
+  {% if post.category contains 'social' %}
+	{% include posts.html %}
   {% endif %}
 {% endfor %}
 </div>
