@@ -51,18 +51,6 @@
 		"oAP": "\/_layouts\/courseList.html",
 		"oF": 0
 		},
-	"\/_site\/404.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/404.html",
-		"oF": 0
-		},
-	"\/_site\/bios\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/bios\/index.html",
-		"oF": 0
-		},
 	"\/_site\/courses\/2017\/07\/08\/3d-Games-and-Simulations.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -123,133 +111,6 @@
 		"oAP": "\/_site\/courses\/index.html",
 		"oF": 0
 		},
-	"\/_site\/css\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/css\/main-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/_site\/css\/main.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/css\/main.css.map",
-		"oF": 0
-		},
-	"\/_site\/css\/skeleton.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/css\/skeleton.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_site\/favicon.ico": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/favicon.ico",
-		"oF": 0
-		},
-	"\/_site\/favicon.png": {
-		"ft": 32768,
-		"iS": 10093,
-		"oA": 0,
-		"oAP": "\/_site\/favicon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/academyLogo.png": {
-		"ft": 32768,
-		"iS": 7507,
-		"oA": 0,
-		"oAP": "\/_site\/images\/academyLogo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ap-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/ap-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/bios-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/bios-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/calendar-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/calendar-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/coursework-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/coursework-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/feat-img.jpg": {
-		"ft": 16384,
-		"iS": 97611,
-		"oA": 0,
-		"oAP": "\/_site\/images\/feat-img.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/images\/no-sign-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/no-sign-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/pseo-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/pseo-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/_stylesheets\/main.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -258,7 +119,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/css\/main.css",
+		"oAP": "\/_site\/css\/main.css",
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
@@ -450,35 +311,6 @@
 		"oAP": "\/courses\/index.html",
 		"oF": 0
 		},
-	"\/css\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/main-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/css\/main.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/css\/main.css.map",
-		"oF": 0
-		},
-	"\/css\/skeleton.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/skeleton.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/favicon.ico": {
 		"ft": 8192,
 		"oA": 2,
@@ -608,7 +440,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 1,
+	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
@@ -2541,7 +2373,7 @@
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
-	"previewPathAddition": "",
+	"previewPathAddition": "_site\/",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
 	"uglifyDefinesString": "",
@@ -2712,7 +2544,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": ""
+	"websiteRelativeRoot": "_site\/"
 	},
 "settingsFileVersion": "3"
 }

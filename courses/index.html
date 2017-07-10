@@ -3,19 +3,29 @@ layout: courseList
 title: Current Courses
 category: courses
 ---
+<div class="grid">
 {% for post in site.posts %}
   {% if post.categories contains 'courses' %}
-  <div class="row">
-    <div class="col-4">
 	<div class="post">
-		<h3 class="title">{{ post.title }}</a></h3>
-		<p class="meta">{{post.TutorName}}</p>
+		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+		<h4 class="meta"><strong>Tutor Name:</strong> {{post.TutorName}}</h4>
+    {% if post.TargetGroup %}
+    <h4 class="meta"><strong>Target Group:</strong> {{post.TargetGroup}}</h4>
+    {% endif %}
+    {% if post.ClassType %}
+    <h4 class="meta"><strong>Class Type:</strong> {{post.ClassType}}</h4>
+    {% endif %}
+    {% if post.ClassSizeLimit %}
+    <h4 class="warning"><strong>Class Size Limit:</strong> {{post.ClassSizeLimit}}</h4>
+    {% endif %}
+    {% if post.Prerequisite %}
+    <h4 class="warning"><strong>Prerequisite:</strong> {{post.Prerequisite}}</h4>
+    {% endif %}
 		<div class="entry">
-			{{ post.content | strip_html | truncatewords: 100 }}
-      <a href="{{ post.url }}" class="primary-button">More</a>
+			{{ post.content | strip_html | truncatewords: 75 }}
 		</div>
+    <a href="{{ post.url }}" class="primary-button">More</a>
   </div>
-</div>
-	</div>
   {% endif %}
 {% endfor %}
+</div>
