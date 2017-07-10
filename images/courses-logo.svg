@@ -5,7 +5,7 @@
         <ellipse id="c" cx="50.988" cy="40.958" rx="71.988" ry="68.958"/>
     </defs>
     <g fill="none" fill-rule="evenodd" opacity=".321" transform="translate(0 29)">
-        <use fill="#BE3C31" opacity=".498" xlink:href="#b"/>
-        <use stroke="#BE3C31" stroke-width="2" opacity=".498" xlink:href="#c"/>
+        <use fill="#889DFF" opacity=".498" xlink:href="#b"/>
+        <use stroke="#889DFF" stroke-width="2" opacity=".498" xlink:href="#c"/>
     </g>
 </svg>

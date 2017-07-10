@@ -5,12 +5,22 @@ category: courses
 ---
 <div class="grid__title">
 <h2>courses</h2>
+<p>Below are all the courses offered and the times offered. We also offer a copy of this list in PDF form as well.</p>
 </div>
 <div class="grid">
 {% for post in site.posts %}
   {% if post.categories contains 'courses' %}
 	<div class="post">
-		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    {% if post.tags contains 'new' %}
+      <img src="../images/plus-simple-line-icons.svg" alt="new course">
+    {% endif %}
+    {% if post.tags contains 'AP' %}
+      <img src="../images/badge-simple-line-icons.svg" alt="new course">
+    {% endif %}
+    {% if post.tags contains 'book-required' %}
+      <img src="../images/book-open-simple-line-icons.svg" alt="new course">
+    {% endif %}
 		<h4 class="meta"><strong>Tutor Name:</strong> {{post.TutorName}}</h4>
     {% if post.TargetGroup %}
     <h4 class="meta"><strong>Target Group:</strong> {{post.TargetGroup}}</h4>

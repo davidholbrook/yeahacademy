@@ -4,7 +4,7 @@ category: courses
 sub-category: 'Computer Skills'
 title: 'Intermediate Computer Programming: 3D Games and Simulations'
 date: 2017-07-08 00:19
-tags: new
+tags:   [new]
 TutorName: Alex LeoneTargetGroup: 7th-12th GradesClassSizeLimit:   minimum of 4, maximum of 10Prerequisite:  Computer Programming Basics or Intro to ComputerClassType: Full Year Course
 ---
 ### Class Description:

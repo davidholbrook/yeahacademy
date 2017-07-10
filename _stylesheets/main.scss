@@ -203,7 +203,7 @@ $yeah: #f8aa29;
 }
 .post{
 	width: 300px;
-  margin: 20px 0;
+  margin: 10px 0;
   padding: 0 5px;
   margin-bottom: 10px;
   text-align: justify;
@@ -214,6 +214,12 @@ $yeah: #f8aa29;
     text-align: center;
   }
 
+    @media(max-width: 400px){
+      width: 100%;
+      margin: 0px
+    }
+  }
+
   h3{
     font-weight: $font-weight-heavy;
     text-align: left;
@@ -221,15 +227,59 @@ $yeah: #f8aa29;
       color: #000000;
       text-decoration: none;
     }
+}
+.grid__title{
+  float: left;
+  background: url(../images/courses-logo.svg) left bottom no-repeat;
+
+  height: 140px;
+  width: 300px;
+  margin-top: -40px;
+  z-index: -1;
+  position: relative;
+  h2{
+    font-weight: 900;
+    position: relative;
+    top: 40px;
+    left: 50px;
+
+    text-transform: uppercase;
+    font-size: 3.187rem;
+    @media(max-width: 630px){
+        position: static;
+        margin: 0 0 10px 10px;
+    }
+  }
+  p{
+    margin-top: 50px;
+    margin-left: 30px;
+    @media(max-width: 1300px){
+        margin-top: -30px;
+        margin-left: 18.75rem;
+        width: 30%;
+    }
+    @media(max-width: 630px){
+        margin: 0 0 0 10px;
+        width: 70%;
+    }
+
+  }
+  @media(max-width: 1300px){
+    width: 100%
+  }
+  @media(max-width: 630px){
+    float: none;
+    margin-top: 0;
+    background: none;
   }
 }
 .grid{
   position: relative;
   width: 100%;
-  max-width: 960px;
+  max-width: 1000px;
   float: right;
   @media (max-width: 400px) {
-      width: 85%;
+      width: 100%;
       padding: 0;
       margin-top: 0;
   }
