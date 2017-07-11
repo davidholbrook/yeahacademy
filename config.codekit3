@@ -57,6 +57,18 @@
 		"oAP": "\/_layouts\/courseList.html",
 		"oF": 0
 		},
+	"\/_site\/404.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/404.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/index.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/arts\/art-history-appreciation.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -241,6 +253,176 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/social\/world-history-2.html",
+		"oF": 0
+		},
+	"\/_site\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/css\/main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/_site\/css\/main.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/css\/main.css.map",
+		"oF": 0
+		},
+	"\/_site\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/favicon.ico",
+		"oF": 0
+		},
+	"\/_site\/favicon.png": {
+		"ft": 32768,
+		"iS": 10093,
+		"oA": 0,
+		"oAP": "\/_site\/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/academyLogo.png": {
+		"ft": 32768,
+		"iS": 7482,
+		"oA": 0,
+		"oAP": "\/_site\/images\/academyLogo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ap-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/ap-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/badge-simple-line-icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/badge-simple-line-icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/bios-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/bios-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/book-open-simple-line-icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/book-open-simple-line-icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/calendar-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/calendar-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/courses-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/courses-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/coursework-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/coursework-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/feat-img.jpg": {
+		"ft": 16384,
+		"iS": 97611,
+		"oA": 0,
+		"oAP": "\/_site\/images\/feat-img.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/graduation-simple-line-icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/graduation-simple-line-icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/no-sign-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/no-sign-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/plus-simple-line-icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/plus-simple-line-icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/pseo-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/pseo-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/index.html",
 		"oF": 0
 		},
 	"\/_stylesheets\/main.scss": {
@@ -833,7 +1015,7 @@
 		"oAP": "\/favicon.ico",
 		"oF": 0
 		},
-	"\/Favicon.png": {
+	"\/favicon.png": {
 		"ft": 32768,
 		"iS": 29051,
 		"oA": 0,

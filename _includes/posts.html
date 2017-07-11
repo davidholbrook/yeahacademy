@@ -1,4 +1,4 @@
-<div class="post
+<div class="post element-item
 {% if post.tags contains 'new' %}
 new
 {% endif %}
@@ -26,20 +26,23 @@ book-required
   {% if post.category contains 'arts' %}
   <h4 class="meta"><strong>Catergory: </strong>Fine Arts</h4>
   {% endif %}
+  {% if post.category contains 'english' %}
+  <h4 class="meta"><strong>Catergory: </strong>English</h4>
+  {% endif %}
   {% if post.category contains 'education' %}
-  <h4 class="meta"><strong>Catergory: </strong>Languages</h4>
+  <h4 class="meta"><strong>Catergory: </strong>Educational & Life Skills</h4>
   {% endif %}
   {% if post.category contains 'languages' %}
-  <h4 class="meta"><strong>Catergory: </strong>Educational & Life Skills</h4>
+  <h4 class="meta"><strong>Catergory: </strong>Languages</h4>
   {% endif %}
   {% if post.category contains 'mathematics' %}
   <h4 class="meta"><strong>Catergory: </strong>Mathematics</h4>
   {% endif %}
   {% if post.category contains 'psychology' %}
-  <h4 class="meta"><strong>Catergory: </strong>Educational & Life Skills</h4>
-  {% endif %}
-  {% if post.category contains 'Science with Labs' %}
   <h4 class="meta"><strong>Catergory: </strong>Psychology</h4>
+  {% endif %}
+  {% if post.category contains 'science' %}
+  <h4 class="meta"><strong>Catergory: </strong>Science with Labs</h4>
   {% endif %}
   {% if post.category contains 'social' %}
   <h4 class="meta"><strong>Catergory: </strong>Social Studies</h4>

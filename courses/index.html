@@ -16,7 +16,16 @@ category: courses
 <img src="../images/book-open-simple-line-icons.svg" alt="book-required"> Book Required <br />
 </div>
 </div>
-<h2>Fine Arts</h2><h2>Education</h2><h2>English</h2><h2>Languages</h2><h2>Mathematics</h2><h2>Science</h2><h2>Social</h2>
+<p><input type="text" class="quicksearch" placeholder="Search" /></p>
+<div class="sorters">
+<a href="#" data-filter=".arts">Fine Arts</a>
+<a href="#" data-filter=".education">Educational & Life Skills</a>
+<a href="#" data-filter=".english">English</a>
+<a href="#" data-filter=".languages">Languages</a>
+<a href="#" data-filter=".mathematics">Mathematics</a>
+<a href="#" data-filter=".science">Science with Labs</a>
+<a href="#" data-filter=".social">Social Studies</a>
+</div>
 <div class="grid">
 {% assign sortedPosts = site.posts | sort: 'title' %}
 {% for post in sortedPosts %}
