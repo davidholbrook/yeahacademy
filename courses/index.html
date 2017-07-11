@@ -16,80 +16,10 @@ category: courses
 <img src="../images/book-open-simple-line-icons.svg" alt="book-required"> Book Required <br />
 </div>
 </div>
-<h2>Fine Arts</h2>
+<h2>Fine Arts</h2><h2>Education</h2><h2>English</h2><h2>Languages</h2><h2>Mathematics</h2><h2>Science</h2><h2>Social</h2>
 <div class="grid">
 {% assign sortedPosts = site.posts | sort: 'title' %}
 {% for post in sortedPosts %}
-  {% if post.category contains 'arts' %}
 	{% include posts.html %}
-  {% endif %}
-{% endfor %}
-</div>
-<h2>Education</h2>
-<div class="grid">
-{% assign sortedPosts = site.posts | sort: 'title' %}
-{% for post in sortedPosts %}
-  {% if post.category contains 'education' %}
-	{% include posts.html %}
-  {% endif %}
-{% endfor %}
-</div>
-
-<h2>English</h2>
-<div class="grid">
-{% assign sortedPosts = site.posts | sort: 'title' %}
-{% for post in sortedPosts %}
-  {% if post.category contains 'english' %}
-	{% include posts.html %}
-  {% endif %}
-{% endfor %}
-</div>
-
-<h2>Languages</h2>
-<div class="grid">
-{% assign sortedPosts = site.posts | sort: 'title' %}
-{% for post in sortedPosts %}
-  {% if post.category contains 'languages' %}
-	{% include posts.html %}
-  {% endif %}
-{% endfor %}
-
-<h2>Mathematics</h2>
-<div class="grid">
-{% assign sortedPosts = site.posts | sort: 'title' %}
-{% for post in sortedPosts %}
-  {% if post.category contains 'mathematics' %}
-	{% include posts.html %}
-  {% endif %}
-{% endfor %}
-</div>
-
-<h2>Psychology</h2>
-<div class="grid">
-{% assign sortedPosts = site.posts | sort: 'title' %}
-{% for post in sortedPosts %}
-  {% if post.category contains 'psychology' %}
-	{% include posts.html %}
-  {% endif %}
-{% endfor %}
-</div>
-
-<h2>Science</h2>
-<div class="grid">
-{% assign sortedPosts = site.posts | sort: 'title' %}
-{% for post in sortedPosts %}
-  {% if post.category contains 'science' %}
-	{% include posts.html %}
-  {% endif %}
-{% endfor %}
-</div>
-
-<h2>Social</h2>
-<div class="grid">
-{% assign sortedPosts = site.posts | sort: 'title' %}
-{% for post in sortedPosts %}
-  {% if post.category contains 'social' %}
-	{% include posts.html %}
-  {% endif %}
 {% endfor %}
 </div>

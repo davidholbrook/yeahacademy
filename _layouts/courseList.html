@@ -27,15 +27,15 @@
     </div>
   </div>
   {{ content }}
-  <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-  <script type="text/javascript">
-    var elem = document.querySelector('.grid');
-    var msnry = new Masonry( elem, {
-      // options
-      itemSelector: '.post',
-      columnWidth: 300,
-      gutter: 10
-    });
-  </script>
+  <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+<script type="text/javascript">
+var elem = document.querySelector('.grid');
+var iso = new Isotope( elem, {
+  // options
+  itemSelector: '.post',
+  layoutMode: 'fitRows'
+});
+</script>
+
 </body>
 </html>

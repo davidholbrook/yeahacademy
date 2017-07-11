@@ -1,4 +1,17 @@
-<div class="post">
+<div class="post
+{% if post.tags contains 'new' %}
+new
+{% endif %}
+{% if post.tags contains 'AP' %}
+AP
+{% endif %}
+{% if post.tags contains 'book-required' %}
+book-required
+{% endif %}
+{% if post.category %}
+{{post.category}}
+{% endif %}
+">
   <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
   {% if post.tags contains 'new' %}
     <img src="../images/plus-simple-line-icons.svg" alt="new course" class="iconsWrap" />
@@ -8,6 +21,61 @@
   {% endif %}
   {% if post.tags contains 'book-required' %}
     <img src="../images/book-open-simple-line-icons.svg" alt="book-required" class="iconsWrap" />
+  {% endif %}
+  {% if post.category %}
+  {% if post.category contains 'arts' %}
+  <h4 class="meta"><strong>Catergory: </strong>Fine Arts</h4>
+  {% endif %}
+  {% if post.category contains 'education' %}
+  <h4 class="meta"><strong>Catergory: </strong>Languages</h4>
+  {% endif %}
+  {% if post.category contains 'languages' %}
+  <h4 class="meta"><strong>Catergory: </strong>Educational & Life Skills</h4>
+  {% endif %}
+  {% if post.category contains 'mathematics' %}
+  <h4 class="meta"><strong>Catergory: </strong>Mathematics</h4>
+  {% endif %}
+  {% if post.category contains 'psychology' %}
+  <h4 class="meta"><strong>Catergory: </strong>Educational & Life Skills</h4>
+  {% endif %}
+  {% if post.category contains 'Science with Labs' %}
+  <h4 class="meta"><strong>Catergory: </strong>Psychology</h4>
+  {% endif %}
+  {% if post.category contains 'social' %}
+  <h4 class="meta"><strong>Catergory: </strong>Social Studies</h4>
+  {% endif %}
+  {% endif %}
+  {% if post.sub-category %}
+  {% if post.sub-category contains 'art-dramatic' %}
+  <h4 class="meta"><strong>Sub-Catergory: </strong>Dramatic Arts</h4>
+  {% endif %}
+  {% if post.sub-category contains 'art-studio' %}
+  <h4 class="meta"><strong>Sub-Catergory: </strong>Studio Arts</h4>
+  {% endif %}
+  {% if post.sub-category contains 'art-history' %}
+  <h4 class="meta"><strong>Sub-Catergory: </strong>Art History</h4>
+  {% endif %}
+  {% if post.sub-category contains 'art-music' %}
+  <h4 class="meta"><strong>Sub-Catergory: </strong>Music</h4>
+  {% endif %}
+  {% if post.sub-category contains 'english-writing' %}
+  <h4 class="meta"><strong>Sub-Catergory: </strong>Writing</h4>
+  {% endif %}
+  {% if post.sub-category contains 'english-literature' %}
+  <h4 class="meta"><strong>Sub-Catergory: </strong>Literature</h4>
+  {% endif %}
+  {% if post.sub-category contains 'languages-modern' %}
+  <h4 class="meta"><strong>Sub-Catergory: </strong>Modern</h4>
+  {% endif %}
+  {% if post.sub-category contains 'languages-classical' %}
+  <h4 class="meta"><strong>Sub-Catergory: </strong>Classical</h4>
+  {% endif %}
+  {% if post.sub-category contains 'social-government' %}
+  <h4 class="meta"><strong>Sub-Catergory: </strong>Government</h4>
+  {% endif %}
+  {% if post.sub-category contains 'social-history' %}
+  <h4 class="meta"><strong>Sub-Catergory: </strong>History</h4>
+  {% endif %}
   {% endif %}
   <h4 class="meta"><strong>Tutor Name:</strong> {{post.TutorName}}</h4>
   {% if post.TargetGroup %}
