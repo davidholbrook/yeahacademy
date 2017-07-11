@@ -237,7 +237,7 @@ $yeah: #f8aa29;
   position: relative;
   h2{
     font-weight: 900;
-    position: relative;
+    position: absolute;
     top: 40px;
     left: 50px;
 
@@ -251,6 +251,9 @@ $yeah: #f8aa29;
   p{
     margin-top: 50px;
     margin-left: 30px;
+    @media(min-width: 1300px){
+      margin-top: 120px;
+    }
     @media(max-width: 1300px){
         margin-top: -30px;
         margin-left: 18.75rem;
@@ -261,6 +264,9 @@ $yeah: #f8aa29;
         width: 70%;
     }
 
+  }
+  @media(min-width: 1300px){
+      position: absolute;
   }
   @media(max-width: 1300px){
     width: 100%;
@@ -280,9 +286,14 @@ $yeah: #f8aa29;
 
   z-index: -1;
   position: relative;
+  @media(min-width: 1300px){
+      position: absolute;
+      top: 22rem;
+  }
   @media(max-width: 1300px){
       margin-top: 0px;
       margin-left: 53px;
+      margin-bottom: 50px;
   }
   @media(max-width: 630px){
       position: static;
@@ -313,32 +324,29 @@ $yeah: #f8aa29;
     }
   }
 }
-// .grid{
-//   position: relative;
-//   width: 100%;
-//   max-width: 1000px;
-//   float: right;
-//   @media(min-width: 1300px){
-//     margin-top: -100px;
-//   }
-//   @media(max-width: 1000px){
-//     margin-top: 30px;
-//     border-top: 5px solid #999;
-//   }
-//   @media (max-width: 400px) {
-//       width: 100%;
-//       padding: 0;
-//   }
-// }
-// .meta, .meta strong{
-//   color: #7f8c8d;
-// }
-// .warning, .warning strong{
-//   color: #c0392b;
-// }
-// .spacer{
-//   margin-top: 50px;
-// }
+.grid__wrapper{
+  position: relative;
+  width: 100%;
+  max-width: 1000px;
+
+
+  @media(min-width: 1300px){
+    margin-top: 10px;
+    float: right;
+  }
+  @media(max-width: 1300px){
+    margin: 0 auto;
+  }
+  @media(max-width: 1000px){
+    padding-top: 30px;
+    margin-top: 10px;
+    border-top: 5px solid #999;
+  }
+  @media (max-width: 400px) {
+      width: 100%;
+      padding: 0;
+  }
+}
 .meta, .meta strong{
   color: #7f8c8d;
 }
@@ -349,6 +357,28 @@ $yeah: #f8aa29;
   margin-top: 50px;
 }
 //sorters
+.sorters{
+  text-align: center;
+}
+.sorters a{
+  text-decoration: none;
+  &:after{
+    content: '|';
+    margin: 0 5px;
+  }
+  &:first-child{
+    &:before{
+      content: '|';
+      margin: 0 5px;
+    }
+  }
+}
 .is-checked{
-  font-weight: $font-weight-heavy;
+  font-weight: 900;
+}
+// quicksearch
+.quicksearch{
+  width: 95%;
+  font-size: 1.2rem;
+  margin: 0 0 0 20px;
 }

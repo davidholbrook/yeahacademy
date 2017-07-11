@@ -3,11 +3,11 @@ layout: courseList
 title: Current Courses
 category: courses
 ---
+<div class="grid__wrapper">
 <div class="grid__title">
 <h2>courses</h2>
 <p>Below are all the courses offered and the times offered. We also offer a copy of this list in PDF form as well.</p>
 </div>
-<div class="u-cf"></div>
 <div class="grid__legend">
 <h2>legend</h2>
 <div class="icons">
@@ -16,8 +16,11 @@ category: courses
 <img src="../images/book-open-simple-line-icons.svg" alt="book-required"> Book Required <br />
 </div>
 </div>
+</div>
+<div class="grid__wrapper">
 <p><input type="text" class="quicksearch" placeholder="Search" /></p>
 <div class="sorters">
+<a href="#" data-filter="*">All</a>
 <a href="#" data-filter=".arts">Fine Arts</a>
 <a href="#" data-filter=".education">Educational & Life Skills</a>
 <a href="#" data-filter=".english">English</a>
@@ -31,4 +34,5 @@ category: courses
 {% for post in sortedPosts %}
 	{% include posts.html %}
 {% endfor %}
+</div>
 </div>
