@@ -57,22 +57,28 @@
 		"oAP": "\/_layouts\/courseList.html",
 		"oF": 0
 		},
-	"\/_site\/404.html": {
+	"\/_site\/courses\/Chinese-I.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/404.html",
+		"oAP": "\/_site\/courses\/Chinese-I.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/index.html": {
+	"\/_site\/courses\/Chinese-II.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/index.html",
+		"oAP": "\/_site\/courses\/Chinese-II.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/education\/3d-Games-and-Simulations.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/education\/3d-Games-and-Simulations.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/education\/study-skills-for-college-students.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/education\/study-skills-for-college-students.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/english\/creative-writing-club.html": {
@@ -93,10 +99,40 @@
 		"oAP": "\/_site\/courses\/english\/LOTR.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/english\/writing-with-confidence-1.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/english\/writing-with-confidence-1.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/english\/writing-with-confidence-2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/english\/writing-with-confidence-2.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/english\/writing-with-confidence-half-level.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/english\/writing-with-confidence-half-level.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/english\/writing-with-confidence-half.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/english\/writing-with-confidence-half.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/index.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/languages\/AP-Language-and-Composition.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/languages\/AP-Language-and-Composition.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/languages\/swedish.html": {
@@ -105,10 +141,28 @@
 		"oAP": "\/_site\/courses\/languages\/swedish.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/post-high-school-transitions.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/post-high-school-transitions.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/science\/AP-Physics-I-Algebra-Based-copy.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/science\/AP-Physics-I-Algebra-Based-copy.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/science\/forensic-science.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/science\/forensic-science.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/science\/Science-Explorations.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/science\/Science-Explorations.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/science\/stem-physics.html": {
@@ -123,174 +177,10 @@
 		"oAP": "\/_site\/courses\/social\/contemporary-issues.html",
 		"oF": 0
 		},
-	"\/_site\/css\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/css\/main-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/_site\/css\/main.css.map": {
+	"\/_site\/courses\/social\/survey-world-history.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/css\/main.css.map",
-		"oF": 0
-		},
-	"\/_site\/favicon.ico": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/favicon.ico",
-		"oF": 0
-		},
-	"\/_site\/favicon.png": {
-		"ft": 32768,
-		"iS": 10093,
-		"oA": 0,
-		"oAP": "\/_site\/favicon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/academyLogo.png": {
-		"ft": 32768,
-		"iS": 7482,
-		"oA": 0,
-		"oAP": "\/_site\/images\/academyLogo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ap-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/ap-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/badge-simple-line-icons.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/badge-simple-line-icons.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/bios-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/bios-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/book-open-simple-line-icons.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/book-open-simple-line-icons.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/calendar-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/calendar-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/courses-logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/courses-logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/coursework-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/coursework-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/feat-img.jpg": {
-		"ft": 16384,
-		"iS": 97611,
-		"oA": 0,
-		"oAP": "\/_site\/images\/feat-img.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/images\/graduation-simple-line-icons.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/graduation-simple-line-icons.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/no-sign-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/no-sign-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/plus-simple-line-icons.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/plus-simple-line-icons.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/pseo-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/pseo-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/index.html",
+		"oAP": "\/_site\/courses\/social\/survey-world-history.html",
 		"oF": 0
 		},
 	"\/_stylesheets\/main.scss": {
@@ -349,6 +239,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/courses\/_posts\/2017-07-10-AP-Language-and-Composition.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-10-AP-Language-and-Composition.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/courses\/_posts\/2017-07-10-AP-Physics-I-Algebra-Based copy.md": {
 		"cS": 0,
 		"eF": 1,
@@ -359,6 +267,42 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/courses\/_posts\/2017-07-10-AP-Physics-I-Algebra-Based copy.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-10-Chinese-I.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-10-Chinese-I.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-10-Chinese-II.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-10-Chinese-II.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -403,6 +347,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/courses\/_posts\/2017-07-10-forensic-science.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-10-forensic-science.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/courses\/_posts\/2017-07-10-journalism.md": {
 		"cS": 0,
 		"eF": 1,
@@ -439,6 +401,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/courses\/_posts\/2017-07-10-Science-Explorations.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-10-Science-Explorations.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/courses\/_posts\/2017-07-10-stem-physics.md": {
 		"cS": 0,
 		"eF": 1,
@@ -457,6 +437,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/courses\/_posts\/2017-07-10-study-skills-for-college-students.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-10-study-skills-for-college-students.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/courses\/_posts\/2017-07-10-swedish.md": {
 		"cS": 0,
 		"eF": 1,
@@ -467,6 +465,114 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/courses\/_posts\/2017-07-10-swedish.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-10-writing-with-confidence-1.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-10-writing-with-confidence-1.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-10-writing-with-confidence-2.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-10-writing-with-confidence-2.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-10-writing-with-confidence-half-level.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-10-writing-with-confidence-half-level.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-post-high-school-transitions.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-post-high-school-transitions.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-survey-world-history.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-survey-world-history.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-writing-with-confidence-half.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-writing-with-confidence-half.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
