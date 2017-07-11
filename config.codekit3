@@ -69,6 +69,30 @@
 		"oAP": "\/_site\/bios\/index.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/arts\/acting-1.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/arts\/acting-1.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/arts\/acting-2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/arts\/acting-2.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/arts\/acting-3.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/arts\/acting-3.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/arts\/Advanced-Scene-Study.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/arts\/Advanced-Scene-Study.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/arts\/art-history-appreciation.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -81,16 +105,34 @@
 		"oAP": "\/_site\/courses\/arts\/designing-interiors.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/Chinese-I.html": {
+	"\/_site\/courses\/arts\/Improv.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/Chinese-I.html",
+		"oAP": "\/_site\/courses\/arts\/Improv.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/Chinese-II.html": {
+	"\/_site\/courses\/arts\/music-class.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/Chinese-II.html",
+		"oAP": "\/_site\/courses\/arts\/music-class.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/arts\/Playwriting-Directing.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/arts\/Playwriting-Directing.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/arts\/Shakespeare.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/arts\/Shakespeare.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/arts\/The-Actor-Scene.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/arts\/The-Actor-Scene.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/education\/3d-Games-and-Simulations.html": {
@@ -109,6 +151,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/education\/personal-finance.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/education\/post-high-school-transitions.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/education\/post-high-school-transitions.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/education\/study-skills-for-college-students.html": {
@@ -177,6 +225,18 @@
 		"oAP": "\/_site\/courses\/languages\/AP-Language-and-Composition.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/languages\/Chinese-I.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/languages\/Chinese-I.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/languages\/Chinese-II.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/languages\/Chinese-II.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/languages\/swedish.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -187,12 +247,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/mathematics\/geometry.html",
-		"oF": 0
-		},
-	"\/_site\/courses\/post-high-school-transitions.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/courses\/post-high-school-transitions.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/science\/AP-Physics-I-Algebra-Based-copy.html": {
@@ -769,6 +823,78 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/courses\/_posts\/2017-07-11-acting-1.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-acting-1.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-acting-2.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-acting-2.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-acting-3.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-acting-3.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-Advanced-Scene-Study.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-Advanced-Scene-Study.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/courses\/_posts\/2017-07-11-art-history-appreciation.md": {
 		"cS": 0,
 		"eF": 1,
@@ -877,6 +1003,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/courses\/_posts\/2017-07-11-Improv.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-Improv.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/courses\/_posts\/2017-07-11-personal-finance.md": {
 		"cS": 0,
 		"eF": 1,
@@ -895,6 +1039,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/courses\/_posts\/2017-07-11-Playwriting-Directing.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-Playwriting-Directing.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/courses\/_posts\/2017-07-11-post-high-school-transitions.md": {
 		"cS": 0,
 		"eF": 1,
@@ -905,6 +1067,24 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/courses\/_posts\/2017-07-11-post-high-school-transitions.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-Shakespeare.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-Shakespeare.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -941,6 +1121,24 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/courses\/_posts\/2017-07-11-survey-world-history.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-The-Actor-Scene.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-The-Actor-Scene.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1015,7 +1213,7 @@
 		"oAP": "\/favicon.ico",
 		"oF": 0
 		},
-	"\/Favicon.png": {
+	"\/favicon.png": {
 		"ft": 32768,
 		"iS": 29051,
 		"oA": 0,

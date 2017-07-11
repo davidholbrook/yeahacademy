@@ -13,15 +13,6 @@ book-required
 {% endif %}
 ">
   <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  {% if post.tags contains 'new' %}
-    <img src="../images/plus-simple-line-icons.svg" alt="new course" class="iconsWrap" />
-  {% endif %}
-  {% if post.tags contains 'AP' %}
-    <img src="../images/badge-simple-line-icons.svg" alt="AP" class="iconsWrap" />
-  {% endif %}
-  {% if post.tags contains 'book-required' %}
-    <img src="../images/book-open-simple-line-icons.svg" alt="book-required" class="iconsWrap" />
-  {% endif %}
   {% if post.category %}
   {% if post.category contains 'arts' %}
   <h4 class="meta"><strong>Catergory: </strong>Fine Arts</h4>
@@ -92,6 +83,15 @@ book-required
   {% endif %}
   {% if post.Prerequisite %}
   <h4 class="warning"><strong>Prerequisite:</strong> {{post.Prerequisite}}</h4>
+  {% endif %}
+  {% if post.tags contains 'new' %}
+    <img src="../images/plus-simple-line-icons.svg" alt="new course" class="iconsWrap" />
+  {% endif %}
+  {% if post.tags contains 'AP' %}
+    <img src="../images/badge-simple-line-icons.svg" alt="AP" class="iconsWrap" />
+  {% endif %}
+  {% if post.tags contains 'book-required' %}
+    <img src="../images/book-open-simple-line-icons.svg" alt="book-required" class="iconsWrap" />
   {% endif %}
   <div class="entry">
     {{ post.content | strip_html | truncatewords: 75 }}

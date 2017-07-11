@@ -4,7 +4,6 @@ category: 'arts'
 sub-category: 'art-history'
 title: 'Art History & Appreciation'
 date: 2017-07-11
-tags: [new, AP, book-required]
 TutorName: 'Cher Baumhoefner'
 TargetGroup: 7th – 12th Grades
 ClassSizeLimit: 8-12 students
