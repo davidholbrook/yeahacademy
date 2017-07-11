@@ -4,10 +4,10 @@ category: 'science'
 title: 'Science Explorations'
 date: 2017-07-10
 TutorName: 'Kay Kelly'
-Target Group: 5th – 6th Grades
-Class Size Limit: 12 maximum
+TargetGroup: 5th – 6th Grades
+ClassSizeLimit: 12 maximum
 Prerequisite: None
-Class Type: Full Year
+ClassType: Full Year
 ---
 Mid-year entry available for spring if space is available**NOTE:** Course rotates every two years so students may take 2 consecutive years of Science Explorations and discover new things each year with new curriculum.### Class Description:This year we will investigate creatures of flight (insects, bats, and birds) through fun, thought-provoking, hands-on lab activities. Along with discovering more about these unique creatures we share the planet with, students will be introduced to terminology, equipment, and procedures that will set a foundation for the next steps in their science education.Required: Internet access for students to receive assignments and class notices, download supplemental reading and worksheets, and link to applicable website.
 

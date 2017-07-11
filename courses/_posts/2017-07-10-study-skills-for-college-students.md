@@ -5,10 +5,10 @@ title: 'Study Skills for College Students'
 date: 2017-07-10
 tags: [book-required]
 TutorName: 'Linda López'
-Target Group: '10th-12th Grades, Recommended especially for those starting PSEO and who have not taken Educational Skills'
-Class Size Limit: minimum of 6, maximum of 16
+TargetGroup: '10th-12th Grades, Recommended especially for those starting PSEO and who have not taken Educational Skills'
+ClassSizeLimit: minimum of 6, maximum of 16
 Prerequisite: 'None, Recommended to follow Transitions (fall class offering)'
-Class Type: 'One Semester – Spring Semester Only'
+ClassType: 'One Semester – Spring Semester Only'
 ---
 ### Class Description:
 Class Description: In this class, students will learn college study skills such as: Learning styles, time management, goal planning, decision making, concentration and memory, reading college textbooks, note taking and test taking

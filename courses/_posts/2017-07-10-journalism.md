@@ -6,10 +6,10 @@ title: 'Journalism'
 date: 2017-07-10
 tags: [new]
 TutorName: 'Susan Kilbride'
-Target Group: 7th-12th Grades
-Class Size Limit: 5 minimum, 15 maximum
+TargetGroup: 7th-12th Grades
+ClassSizeLimit: 5 minimum, 15 maximum
 Prerequisite: None
-Class Type: Full Year
+ClassType: Full Year
 ---
 Mid-year entry available for spring if space is available
 ### Class Description:

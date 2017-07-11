@@ -5,10 +5,10 @@ title: 'Contemporary Issues'
 date: 2017-07-10
 tags: [new]
 TutorName: 'Dave Racer'
-Target Group: 9th – 12th Grades
-Class Size Limit: 15
+TargetGroup: 9th – 12th Grades
+ClassSizeLimit: 15
 Prerequisite: None
-Class Type: 'One Semester Course –  Offered in both Fall and Spring Semesters'
+ClassType: 'One Semester Course –  Offered in both Fall and Spring Semesters'
 ---
 
 ### Class Description:

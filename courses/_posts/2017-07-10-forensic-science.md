@@ -4,9 +4,9 @@ category: 'science'
 title: 'Forensic Science'
 date: 2017-07-10
 TutorName: 'Susan Kilbride'
-Target Group: 9th – 12th Grades
-Class Size Limit: 5 minimum, 20 maximum
-Class Type: Full Year
+TargetGroup: 9th – 12th Grades
+ClassSizeLimit: 5 minimum, 20 maximum
+ClassType: Full Year
 ---
 
  Mid-year entry available for spring if space is available 

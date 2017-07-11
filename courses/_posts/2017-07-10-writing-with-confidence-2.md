@@ -6,10 +6,10 @@ title: 'Writing with Confidence – Level 2'
 date: 2017-07-10
 tags: [book-required]
 TutorName: 'Rebecca Hope'
-Target Group: 8th – 10th Grades
-Class Size Limit: 20 maximum
+TargetGroup: 8th – 10th Grades
+ClassSizeLimit: 20 maximum
 Prerequisite: 'Level 1 or equivalent in the previous year.'
-Class Type: Full Year
+ClassType: Full Year
 ---
 
 ### Class Description:

@@ -5,9 +5,9 @@ title: 'Intermediate Computer Programming: 3d Games & Simulations '
 date: 2017-07-10
 tags: [new]
 TutorName: 'Alex Leone'
-Target Group: 7th – 12th Grades
-Class Size Limit: minimum of 4, maximum of 10
-Prerequisite: Computer Programming Basics or Intro to Computer ProgrammingClass Type: Full Year
+TargetGroup: 7th – 12th Grades
+ClassSizeLimit: minimum of 4, maximum of 10
+Prerequisite: Computer Programming Basics or Intro to Computer ProgrammingClassType: Full Year
 ---
 
 ### Class Description:

@@ -6,10 +6,10 @@ title: 'Creative Writing Club'
 date: 2017-07-10
 tags: [new]
 TutorName: 'Amy Baumhoefner'
-Target Group: 9th – 12th Grades, Also open to graduated Academy students with tutor approval
-Class Size Limit: 5 minimum; 15 maximum
+TargetGroup: 9th – 12th Grades, Also open to graduated Academy students with tutor approval
+ClassSizeLimit: 5 minimum; 15 maximum
 Prerequisite: None
-Class Type: Full Year
+ClassType: Full Year
 ---
 
 New students may enter mid-year if space is available.

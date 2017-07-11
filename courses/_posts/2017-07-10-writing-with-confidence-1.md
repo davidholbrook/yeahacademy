@@ -6,10 +6,10 @@ title: 'Writing with Confidence – Level 1'
 date: 2017-07-10
 tags: [book-required]
 TutorName: 'Rebecca Hope'
-Target Group: 7th grade (age 12) – 9th Grades
-Class Size Limit: 20 maximum
+TargetGroup: 7th grade (age 12) – 9th Grades
+ClassSizeLimit: 20 maximum
 Prerequisite: 'None, Level Half is not required, but it is HIGHLY RECOMMENDED before Level 1'
-Class Type: Full Year
+ClassType: Full Year
 ---
 
 ### Class Description:

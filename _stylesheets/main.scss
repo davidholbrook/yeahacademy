@@ -206,7 +206,6 @@ $yeah: #f8aa29;
   margin: 10px 0;
   padding: 0 5px;
   margin-bottom: 10px;
-  text-align: justify;
 
   .primary-button{
     margin-top: 10px;
@@ -340,3 +339,12 @@ $yeah: #f8aa29;
 // .spacer{
 //   margin-top: 50px;
 // }
+.meta, .meta strong{
+  color: #7f8c8d;
+}
+.warning, .warning strong{
+  color: #c0392b;
+}
+.spacer{
+  margin-top: 50px;
+}
