@@ -57,6 +57,18 @@
 		"oAP": "\/_layouts\/courseList.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/arts\/art-history-appreciation.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/arts\/art-history-appreciation.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/arts\/designing-interiors.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/arts\/designing-interiors.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/Chinese-I.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -75,10 +87,28 @@
 		"oAP": "\/_site\/courses\/education\/3d-Games-and-Simulations.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/education\/educational-skills.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/education\/educational-skills.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/education\/personal-finance.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/education\/personal-finance.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/education\/study-skills-for-college-students.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/education\/study-skills-for-college-students.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/english\/book-club.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/english\/book-club.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/english\/creative-writing-club.html": {
@@ -141,6 +171,12 @@
 		"oAP": "\/_site\/courses\/languages\/swedish.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/mathematics\/geometry.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/mathematics\/geometry.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/post-high-school-transitions.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -177,10 +213,34 @@
 		"oAP": "\/_site\/courses\/social\/contemporary-issues.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/social\/history-mythology-folklore.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/social\/history-mythology-folklore.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/social\/student-senate.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/social\/student-senate.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/social\/survey-world-history.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/social\/survey-world-history.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/social\/us-history.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/social\/us-history.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/social\/world-history-2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/social\/world-history-2.html",
 		"oF": 0
 		},
 	"\/_stylesheets\/main.scss": {
@@ -527,6 +587,132 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/courses\/_posts\/2017-07-11-art-history-appreciation.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-art-history-appreciation.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-book-club.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-book-club.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-designing-interiors.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-designing-interiors.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-educational-skills.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-educational-skills.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-geometry.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-geometry.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-history-mythology-folklore.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-history-mythology-folklore.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-personal-finance.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-personal-finance.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/courses\/_posts\/2017-07-11-post-high-school-transitions.md": {
 		"cS": 0,
 		"eF": 1,
@@ -545,6 +731,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/courses\/_posts\/2017-07-11-student-senate.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-student-senate.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/courses\/_posts\/2017-07-11-survey-world-history.md": {
 		"cS": 0,
 		"eF": 1,
@@ -555,6 +759,42 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/courses\/_posts\/2017-07-11-survey-world-history.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-us-history.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-us-history.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-world-history-2.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-world-history-2.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
