@@ -561,7 +561,7 @@
 		},
 	"\/_site\/favicon.png": {
 		"ft": 32768,
-		"iS": 10093,
+		"iS": 10498,
 		"oA": 0,
 		"oAP": "\/_site\/favicon.png",
 		"oF": 0,
@@ -572,7 +572,7 @@
 		},
 	"\/_site\/images\/academyLogo.png": {
 		"ft": 32768,
-		"iS": 7482,
+		"iS": 8676,
 		"oA": 0,
 		"oAP": "\/_site\/images\/academyLogo.png",
 		"oF": 0,
@@ -706,6 +706,149 @@
 		"oA": 2,
 		"oAP": "\/_site\/index.html",
 		"oF": 0
+		},
+	"\/_site\/New icon 2\/New icon 2-60@2x.png": {
+		"ft": 32768,
+		"iS": 8509,
+		"oA": 0,
+		"oAP": "\/_site\/New icon 2\/New icon 2-60@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/New icon 2\/New icon 2-60@3x.png": {
+		"ft": 32768,
+		"iS": 12890,
+		"oA": 0,
+		"oAP": "\/_site\/New icon 2\/New icon 2-60@3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/New icon 2\/New icon 2-76.png": {
+		"ft": 32768,
+		"iS": 4465,
+		"oA": 0,
+		"oAP": "\/_site\/New icon 2\/New icon 2-76.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/New icon 2\/New icon 2-76@2x.png": {
+		"ft": 32768,
+		"iS": 10300,
+		"oA": 0,
+		"oAP": "\/_site\/New icon 2\/New icon 2-76@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/New icon 2\/New icon 2-83.5@2x.png": {
+		"ft": 32768,
+		"iS": 11677,
+		"oA": 0,
+		"oAP": "\/_site\/New icon 2\/New icon 2-83.5@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/New icon 2\/New icon 2-AppStore.png": {
+		"ft": 32768,
+		"iS": 25981,
+		"oA": 0,
+		"oAP": "\/_site\/New icon 2\/New icon 2-AppStore.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/New icon 2\/New icon 2-AppStore@2x.png": {
+		"ft": 32768,
+		"iS": 50026,
+		"oA": 0,
+		"oAP": "\/_site\/New icon 2\/New icon 2-AppStore@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/New icon 2\/New icon 2-Small-40.png": {
+		"ft": 32768,
+		"iS": 1947,
+		"oA": 0,
+		"oAP": "\/_site\/New icon 2\/New icon 2-Small-40.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/New icon 2\/New icon 2-Small-40@2x.png": {
+		"ft": 32768,
+		"iS": 4904,
+		"oA": 0,
+		"oAP": "\/_site\/New icon 2\/New icon 2-Small-40@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/New icon 2\/New icon 2-Small-40@3x.png": {
+		"ft": 32768,
+		"iS": 7829,
+		"oA": 0,
+		"oAP": "\/_site\/New icon 2\/New icon 2-Small-40@3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/New icon 2\/New icon 2-Small.png": {
+		"ft": 32768,
+		"iS": 1380,
+		"oA": 0,
+		"oAP": "\/_site\/New icon 2\/New icon 2-Small.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/New icon 2\/New icon 2-Small@2x.png": {
+		"ft": 32768,
+		"iS": 3283,
+		"oA": 0,
+		"oAP": "\/_site\/New icon 2\/New icon 2-Small@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/New icon 2\/New icon 2-Small@3x.png": {
+		"ft": 32768,
+		"iS": 5125,
+		"oA": 0,
+		"oAP": "\/_site\/New icon 2\/New icon 2-Small@3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/_stylesheets\/main.scss": {
 		"aP": 0,
@@ -2168,7 +2311,7 @@
 		},
 	"\/images\/academyLogo.png": {
 		"ft": 32768,
-		"iS": 7482,
+		"iS": 8676,
 		"oA": 0,
 		"oAP": "\/images\/academyLogo.png",
 		"oF": 0,
