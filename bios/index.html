@@ -1,0 +1,12 @@
+---
+layout: bioList
+title: Tutors Bios
+category: bio
+---
+<div class="grid">
+{% assign sortedPosts = site.posts | sort: 'title' %}
+{% for post in sortedPosts %}
+	{% include posts.html %}
+{% endfor %}
+</div>
+</div>

@@ -45,6 +45,12 @@
 		"oAP": "\/_layouts\/bio.html",
 		"oF": 0
 		},
+	"\/_layouts\/bioList.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/bioList.html",
+		"oF": 0
+		},
 	"\/_layouts\/course.html": {
 		"ft": 8192,
 		"oA": 2,

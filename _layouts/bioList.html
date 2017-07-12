@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: en }}">
+<title>{{page.title}} || Academy Bios</title>
+<link rel="shortcut icon" href="http://localhost:5757/favicon.ico?v=2"/>
+<link rel="apple-touch-icon" href="http://localhost:5757/favicon.png?v=2"/>
+<link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel="stylesheet">
+<link rel="stylesheet" href="/css/main.css"/>
+<body>
+  <div class="header">
+    <div class="topbar">
+      <div class="runner"><img src="/images/academyLogo.png"/></div>
+      <nav class="mainNav">
+        <ul>
+          <li>YEAH</li>
+          <li><strong>The Academy</strong></li>
+          <li>Building A</li>
+        </ul>
+      </nav>
+    </div>
+    <div class="featImg">
+      <div class="row">
+      <div class="featText five columns">
+        <h2>The Academy</h2>
+        <p>Designed to serve as a tutorial supplement to individual home study programs, <strong>The Academy</strong> is committed to coming alongside of home educating parents and students in Middle, Junior and Senior High School.</p>
+      </div>
+      </div>
+    </div>
+  </div>
+  {{ content }}
+
+  <script   src="https://code.jquery.com/jquery-3.2.1.slim.min.js"   integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="   crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+<script type="text/javascript">
+
+// quick search regex
+// external js: isotope.pkgd.js
+
+// init Isotope
+var qsRegex;
+$('.grid').isotope({
+  // options
+  itemSelector: '.element-item',
+  filter: function() {
+    return qsRegex ? $(this).text().match( qsRegex ) : true;
+  }
+});
+
+var $grid = $('.grid').isotope({
+  // options
+});
+// filter items on button click
+$('.sorters').on( 'click', 'a', function() {
+  var filterValue = $(this).attr('data-filter');
+  $grid.isotope({ filter: filterValue });
+});
+
+$('.sorters').each( function( i, buttonGroup ) {
+  var $buttonGroup = $( buttonGroup );
+  $buttonGroup.on( 'click', 'a', function() {
+    $buttonGroup.find('.is-checked').removeClass('is-checked');
+    $( this ).addClass('is-checked');
+  });
+});
+
+// quick search regex
+var qsRegex;
+
+// use value of search field to filter
+var $quicksearch = $('.quicksearch').keyup( debounce( function() {
+  qsRegex = new RegExp( $quicksearch.val(), 'gi' );
+  $grid.isotope();
+}, 200 ) );
+
+// debounce so filtering doesn't happen every millisecond
+function debounce( fn, threshold ) {
+  var timeout;
+  return function debounced() {
+    if ( timeout ) {
+      clearTimeout( timeout );
+    }
+    function delayed() {
+      fn();
+      timeout = null;
+    }
+    timeout = setTimeout( delayed, threshold || 100 );
+  }
+}
+
+
+
+
+
+</script>
+
+</body>
+</html>
