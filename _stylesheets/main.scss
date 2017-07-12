@@ -228,8 +228,6 @@ $yeah: #f8aa29;
     }
 }
 .grid__title{
-  background: url(../images/courses-logo.svg) left bottom no-repeat;
-
   height: 140px;
   width: 300px;
   margin-top: -40px;
@@ -279,6 +277,13 @@ $yeah: #f8aa29;
     margin-bottom: 20px;
   }
 }
+.grid__title--course{
+    background: url(../images/courses-logo.svg) left bottom no-repeat;
+}
+.grid__title--bios{
+    background: url(../images/bios-logo.svg) left bottom no-repeat;
+}
+
 .grid__legend{
   width: 200px;
   margin-top: 60px;

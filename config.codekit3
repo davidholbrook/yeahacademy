@@ -63,16 +63,58 @@
 		"oAP": "\/_layouts\/courseList.html",
 		"oF": 0
 		},
-	"\/_site\/404.html": {
+	"\/_site\/bios\/alex-leone.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/404.html",
+		"oAP": "\/_site\/bios\/alex-leone.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Amy-Baumhoefner.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Amy-Baumhoefner.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Danielle-Lee.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Danielle-Lee.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/dave-racer.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/dave-racer.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/dr-skip-baumhoefner.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/dr-skip-baumhoefner.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/elise-werger.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/elise-werger.html",
 		"oF": 0
 		},
 	"\/_site\/bios\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/bios\/index.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Paula-Karjalahti.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Paula-Karjalahti.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/rebecca-hope.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/rebecca-hope.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/arts\/2-Acrylic-Painting.html": {
@@ -542,319 +584,6 @@
 		"oA": 2,
 		"oAP": "\/_site\/courses\/social\/World-History.html",
 		"oF": 0
-		},
-	"\/_site\/css\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/css\/main-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/_site\/css\/main.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/css\/main.css.map",
-		"oF": 0
-		},
-	"\/_site\/favicon.ico": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/favicon.ico",
-		"oF": 0
-		},
-	"\/_site\/favicon.png": {
-		"ft": 32768,
-		"iS": 10498,
-		"oA": 0,
-		"oAP": "\/_site\/favicon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/academyLogo.png": {
-		"ft": 32768,
-		"iS": 8676,
-		"oA": 0,
-		"oAP": "\/_site\/images\/academyLogo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ap-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/ap-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/badge-simple-line-icons.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/badge-simple-line-icons.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/bios-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/bios-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/book-open-simple-line-icons.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/book-open-simple-line-icons.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/calendar-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/calendar-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/courses-logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/courses-logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/coursework-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/coursework-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/feat-img.jpg": {
-		"ft": 16384,
-		"iS": 97611,
-		"oA": 0,
-		"oAP": "\/_site\/images\/feat-img.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/images\/graduation-simple-line-icons.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/graduation-simple-line-icons.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/no-sign-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/no-sign-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/plus-simple-line-icons.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/plus-simple-line-icons.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/pseo-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/pseo-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/index.html",
-		"oF": 0
-		},
-	"\/_site\/New icon 2\/New icon 2-60@2x.png": {
-		"ft": 32768,
-		"iS": 8509,
-		"oA": 0,
-		"oAP": "\/_site\/New icon 2\/New icon 2-60@2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/New icon 2\/New icon 2-60@3x.png": {
-		"ft": 32768,
-		"iS": 12890,
-		"oA": 0,
-		"oAP": "\/_site\/New icon 2\/New icon 2-60@3x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/New icon 2\/New icon 2-76.png": {
-		"ft": 32768,
-		"iS": 4465,
-		"oA": 0,
-		"oAP": "\/_site\/New icon 2\/New icon 2-76.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/New icon 2\/New icon 2-76@2x.png": {
-		"ft": 32768,
-		"iS": 10300,
-		"oA": 0,
-		"oAP": "\/_site\/New icon 2\/New icon 2-76@2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/New icon 2\/New icon 2-83.5@2x.png": {
-		"ft": 32768,
-		"iS": 11677,
-		"oA": 0,
-		"oAP": "\/_site\/New icon 2\/New icon 2-83.5@2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/New icon 2\/New icon 2-AppStore.png": {
-		"ft": 32768,
-		"iS": 25981,
-		"oA": 0,
-		"oAP": "\/_site\/New icon 2\/New icon 2-AppStore.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/New icon 2\/New icon 2-AppStore@2x.png": {
-		"ft": 32768,
-		"iS": 50026,
-		"oA": 0,
-		"oAP": "\/_site\/New icon 2\/New icon 2-AppStore@2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/New icon 2\/New icon 2-Small-40.png": {
-		"ft": 32768,
-		"iS": 1947,
-		"oA": 0,
-		"oAP": "\/_site\/New icon 2\/New icon 2-Small-40.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/New icon 2\/New icon 2-Small-40@2x.png": {
-		"ft": 32768,
-		"iS": 4904,
-		"oA": 0,
-		"oAP": "\/_site\/New icon 2\/New icon 2-Small-40@2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/New icon 2\/New icon 2-Small-40@3x.png": {
-		"ft": 32768,
-		"iS": 7829,
-		"oA": 0,
-		"oAP": "\/_site\/New icon 2\/New icon 2-Small-40@3x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/New icon 2\/New icon 2-Small.png": {
-		"ft": 32768,
-		"iS": 1380,
-		"oA": 0,
-		"oAP": "\/_site\/New icon 2\/New icon 2-Small.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/New icon 2\/New icon 2-Small@2x.png": {
-		"ft": 32768,
-		"iS": 3283,
-		"oA": 0,
-		"oAP": "\/_site\/New icon 2\/New icon 2-Small@2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/New icon 2\/New icon 2-Small@3x.png": {
-		"ft": 32768,
-		"iS": 5125,
-		"oA": 0,
-		"oAP": "\/_site\/New icon 2\/New icon 2-Small@3x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
 		},
 	"\/_stylesheets\/main.scss": {
 		"aP": 0,
@@ -2495,6 +2224,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/images\/bios-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/bios-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/bios-logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,

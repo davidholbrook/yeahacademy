@@ -3,10 +3,17 @@ layout: bioList
 title: Tutors Bios
 category: bio
 ---
+<div class="grid__title grid__title--bios">
+<h2>Bios</h2>
+</div>
+<div class="grid__wrapper">
 <div class="grid">
 {% assign sortedPosts = site.posts | sort: 'title' %}
 {% for post in sortedPosts %}
-	{% include posts.html %}
+{% if post.layout contains 'bio' %}
+	<h3 class="title bio-select"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+{% endif %}
 {% endfor %}
+</div>
 </div>
 </div>
