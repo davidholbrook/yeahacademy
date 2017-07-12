@@ -69,6 +69,24 @@
 		"oAP": "\/_site\/bios\/index.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/arts\/2-Acrylic-Painting.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/arts\/2-Acrylic-Painting.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/arts\/2-Art-Adventures.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/arts\/2-Art-Adventures.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/arts\/2-design.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/arts\/2-design.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/arts\/acting-1.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -93,10 +111,22 @@
 		"oAP": "\/_site\/courses\/arts\/Advanced-Scene-Study.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/arts\/ap-drawing.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/arts\/ap-drawing.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/arts\/art-history-appreciation.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/arts\/art-history-appreciation.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/arts\/Art-Mixed-Mediums.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/arts\/Art-Mixed-Mediums.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/arts\/designing-interiors.html": {
@@ -105,16 +135,16 @@
 		"oAP": "\/_site\/courses\/arts\/designing-interiors.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/arts\/Drawing.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/arts\/Drawing.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/arts\/Improv.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/arts\/Improv.html",
-		"oF": 0
-		},
-	"\/_site\/courses\/arts\/music-class.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/courses\/arts\/music-class.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/arts\/Playwriting-Directing.html": {
@@ -141,10 +171,46 @@
 		"oAP": "\/_site\/courses\/education\/3d-Games-and-Simulations.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/education\/computer-programming.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/education\/computer-programming.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/education\/Computer-Skills.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/education\/Computer-Skills.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/education\/Culinary-Arts.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/education\/Culinary-Arts.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/education\/Driver-Education.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/education\/Driver-Education.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/education\/educational-skills.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/education\/educational-skills.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/education\/Intro-Programming.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/education\/Intro-Programming.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/education\/Introduction-to-Culinary-Art.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/education\/Introduction-to-Culinary-Art.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/education\/personal-finance.html": {
@@ -171,16 +237,46 @@
 		"oAP": "\/_site\/courses\/english\/book-club.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/english\/Classics-in-Literature.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/english\/Classics-in-Literature.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/english\/Composition-Research.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/english\/Composition-Research.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/english\/creating-writing.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/english\/creating-writing.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/english\/creative-writing-club.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/english\/creative-writing-club.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/english\/Inspire-Writing.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/english\/Inspire-Writing.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/english\/journalism.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/english\/journalism.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/english\/Literature-Film.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/english\/Literature-Film.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/english\/LOTR.html": {
@@ -219,6 +315,24 @@
 		"oAP": "\/_site\/courses\/index.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/languages\/American-Sign-1.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/languages\/American-Sign-1.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/languages\/American-Sign-2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/languages\/American-Sign-2.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/languages\/American-Sign-3.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/languages\/American-Sign-3.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/languages\/AP-Language-and-Composition.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -237,6 +351,36 @@
 		"oAP": "\/_site\/courses\/languages\/Chinese-II.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/languages\/greek-1.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/languages\/greek-1.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/languages\/Latin-1.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/languages\/Latin-1.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/languages\/Latin-2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/languages\/Latin-2.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/languages\/Spanish-1.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/languages\/Spanish-1.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/languages\/Spanish-2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/languages\/Spanish-2.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/languages\/swedish.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -249,16 +393,58 @@
 		"oAP": "\/_site\/courses\/mathematics\/geometry.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/psychology\/psych.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/psychology\/psych.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/science\/AP-Physics-I-Algebra-Based-copy.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/science\/AP-Physics-I-Algebra-Based-copy.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/science\/Biology-Apologia.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/science\/Biology-Apologia.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/science\/Chemistry-Apologia.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/science\/Chemistry-Apologia.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/science\/food-science.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/science\/food-science.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/science\/forensic-science.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/science\/forensic-science.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/science\/General-Science-Apologia.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/science\/General-Science-Apologia.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/science\/Physical-Science-Apologia.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/science\/Physical-Science-Apologia.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/science\/Science-Explorations-Apologia.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/science\/Science-Explorations-Apologia.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/science\/Science-Explorations.html": {
@@ -273,16 +459,40 @@
 		"oAP": "\/_site\/courses\/science\/stem-physics.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/social\/American-History.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/social\/American-History.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/social\/American-Real.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/social\/American-Real.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/social\/contemporary-issues.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/social\/contemporary-issues.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/social\/Culture-Life.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/social\/Culture-Life.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/social\/history-mythology-folklore.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/social\/history-mythology-folklore.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/social\/Middle-Civics.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/social\/Middle-Civics.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/social\/student-senate.html": {
@@ -303,10 +513,28 @@
 		"oAP": "\/_site\/courses\/social\/us-history.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/social\/World-Civilizations-2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/social\/World-Civilizations-2.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/social\/World-Geography.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/social\/World-Geography.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/social\/world-history-2.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/social\/world-history-2.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/social\/World-History.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/social\/World-History.html",
 		"oF": 0
 		},
 	"\/_site\/css\/main.css": {
@@ -571,6 +799,42 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/courses\/_posts\/2017-07-10-Biology-Apologia.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-10-Biology-Apologia.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-10-Chemistry-Apologia.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-10-Chemistry-Apologia.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/courses\/_posts\/2017-07-10-Chinese-I.md": {
 		"cS": 0,
 		"eF": 1,
@@ -643,6 +907,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/courses\/_posts\/2017-07-10-food-science.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-10-food-science.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/courses\/_posts\/2017-07-10-forensic-science.md": {
 		"cS": 0,
 		"eF": 1,
@@ -653,6 +935,24 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/courses\/_posts\/2017-07-10-forensic-science.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-10-General-Science-Apologia.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-10-General-Science-Apologia.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -689,6 +989,42 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/courses\/_posts\/2017-07-10-LOTR.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-10-Physical-Science-Apologia.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-10-Physical-Science-Apologia.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-10-Science-Explorations-Apologia.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-10-Science-Explorations-Apologia.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -823,6 +1159,60 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/courses\/_posts\/2017-07-11-2-Acrylic-Painting.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-2-Acrylic-Painting.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-2-Art-Adventures.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-2-Art-Adventures.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-2-design.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-2-design.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/courses\/_posts\/2017-07-11-acting-1.md": {
 		"cS": 0,
 		"eF": 1,
@@ -895,6 +1285,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/courses\/_posts\/2017-07-11-ap-drawing.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-ap-drawing.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/courses\/_posts\/2017-07-11-art-history-appreciation.md": {
 		"cS": 0,
 		"eF": 1,
@@ -905,6 +1313,24 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/courses\/_posts\/2017-07-11-art-history-appreciation.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-Art-Mixed-Mediums.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-Art-Mixed-Mediums.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -941,6 +1367,24 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/courses\/_posts\/2017-07-11-designing-interiors.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-Drawing.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-Drawing.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1193,6 +1637,492 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/courses\/_posts\/2017-07-11-writing-with-confidence-half.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-American-History.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-American-History.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-American-Real.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-American-Real.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-American-Sign-1.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-American-Sign-1.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-American-Sign-2.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-American-Sign-2.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-American-Sign-3.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-American-Sign-3.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-Classics-in-Literature.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Classics-in-Literature.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-Composition-Research.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Composition-Research.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-computer-programming.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-computer-programming.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-Computer-Skills.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Computer-Skills.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-creating-writing.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-creating-writing.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-Culinary-Arts.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Culinary-Arts.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-Culture-Life.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Culture-Life.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-Driver-Education.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Driver-Education.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-greek-1.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-greek-1.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-Inspire-Writing.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Inspire-Writing.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-Intro-Programming.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Intro-Programming.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-Introduction-to-Culinary-Art.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Introduction-to-Culinary-Art.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-Latin-1.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Latin-1.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-Latin-2.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Latin-2.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-Literature-Film.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Literature-Film.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-Middle-Civics.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Middle-Civics.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-psych.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-psych.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-Spanish-1.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Spanish-1.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-Spanish-2.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Spanish-2.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-World-Civilizations-2.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-World-Civilizations-2.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-World-Geography.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-World-Geography.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-12-World-History.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-World-History.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
