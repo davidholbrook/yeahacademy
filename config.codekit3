@@ -712,19 +712,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_stylesheets\/main.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 0,
-		"oAP": "\/_site\/css\/main.css",
-		"oF": 2,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/_stylesheets\/skeleton.scss": {
 		"aP": 0,
 		"bl": 0,
