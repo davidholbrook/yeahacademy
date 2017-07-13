@@ -1,7 +1,7 @@
 ---
 layout: course
 category: 'education'
-title: 'Intro to Computer Programming: Computer Games and the Internet'
+title: 'Computer Programming, Introduction: Computer Games and the Internet'
 date: 2017-07-12
 TutorName: 'Alex Leone'
 TargetGroup: 6th-8th Grades

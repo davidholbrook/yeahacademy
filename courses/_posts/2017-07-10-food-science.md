@@ -10,6 +10,8 @@ Prerequisite: none
 ClassType: "Full Year, Mid-year entry available for spring if space is available"
 ---
 
+**Course not offered 2017-18**
+
 ### Class Description:
 This course will explore the divine design of the human body and the positive and negative impacts that nutrition and health choices have on the human body.  We will explore how food is produced, examine food groups and the USDA food pyramid.  We will be reading food labels and examining the nutritional makeup of our individual food choices. The goal of this class is to gain an understanding of how the body functions best and what leads to DIS-function based on food choices and health practices. Time in the classroom will be a mix of lecture, discussion and hands on food lab experiences. Other topics related to health will also be explored such as: the use of aromatherapy/essential oils, flower essence, sleep and exercise. Assignments will include weekly homework, food journal entries, completion of papers, a  presentation, quizzes and tests.
 

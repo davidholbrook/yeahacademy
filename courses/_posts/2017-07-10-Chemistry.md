@@ -1,9 +1,9 @@
 ---
 layout: course
 category: 'science'
-title: 'Chemistry (Apologia)'
+title: 'Chemistry'
 date: 2017-07-10
-TutorName: 'Tammie Haveman'
+TutorName: 'Paula Karjalahti'
 tags: [book-required]
 TargetGroup: 10th – 12th Grades
 ClassSizeLimit: 26 maximum
@@ -16,18 +16,11 @@ Typically an 11th grade course. This course is designed to be a first-year high 
 
 **Required:** Internet access for students to receive class notices.
 
-### Texts
-**Required:** Apologia Exploring Creation with Chemistry 2nd Edition Textbook and Solutions Manual
-* This course will use the 2nd Edition text. Other editions will not be accepted.
-* The 2nd Edition is not available at Apologia’s website. Find at secondhand retailers (such as Amazon)
-* Optional: Apologia Exploring Creation with Chemistry 2nd Edition CD ROM
-
 ### Total Due
 *     $225.00 per semester               
 *     All course lab materials used in the classroom are provided by the tutor. 
 *     See list above for text to be supplied by the student.
 *     Payment due with Registration per semester – paid in full per semester at the time of registration.
 
-
 ### Payable to
-Tammie Haveman
+Paula Karjalahti

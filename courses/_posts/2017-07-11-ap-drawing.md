@@ -6,7 +6,7 @@ title: 'AP Drawing'
 date: 2017-07-11
 tags: [AP]
 TutorName: 'Karla Hall'
-TargetGroup: 9th – 12th Grades
+TargetGroup: 10th – 12th Grades
 Prerequisite: "None Open to approved students in 10th-12th grades"
 ClassType: Full Year
 ---

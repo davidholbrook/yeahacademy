@@ -63,6 +63,18 @@
 		"oAP": "\/_layouts\/courseList.html",
 		"oF": 0
 		},
+	"\/_plugins\/file_exists.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_plugins\/file_exists.rb",
+		"oF": 0
+		},
+	"\/_plugins\/if_file_exists.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_plugins\/if_file_exists.rb",
+		"oF": 0
+		},
 	"\/_site\/bios\/alex-leone.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -229,6 +241,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/bios\/Susan-Kilbride.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Tammy-Bydlon.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Tammy-Bydlon.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/arts\/2-Acrylic-Painting.html": {
@@ -399,22 +417,10 @@
 		"oAP": "\/_site\/courses\/english\/book-club.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/english\/Classics-in-Literature.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/courses\/english\/Classics-in-Literature.html",
-		"oF": 0
-		},
 	"\/_site\/courses\/english\/Composition-Research.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/english\/Composition-Research.html",
-		"oF": 0
-		},
-	"\/_site\/courses\/english\/creating-writing.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/courses\/english\/creating-writing.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/english\/creative-writing-club.html": {
@@ -457,12 +463,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/english\/writing-with-confidence-2.html",
-		"oF": 0
-		},
-	"\/_site\/courses\/english\/writing-with-confidence-half-level.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/courses\/english\/writing-with-confidence-half-level.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/english\/writing-with-confidence-half.html": {
@@ -573,10 +573,10 @@
 		"oAP": "\/_site\/courses\/science\/Biology-Apologia.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/science\/Chemistry-Apologia.html": {
+	"\/_site\/courses\/science\/Chemistry.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/science\/Chemistry-Apologia.html",
+		"oAP": "\/_site\/courses\/science\/Chemistry.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/science\/food-science.html": {
@@ -597,10 +597,10 @@
 		"oAP": "\/_site\/courses\/science\/General-Science-Apologia.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/science\/Physical-Science-Apologia.html": {
+	"\/_site\/courses\/science\/Physical-Science.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/courses\/science\/Physical-Science-Apologia.html",
+		"oAP": "\/_site\/courses\/science\/Physical-Science.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/science\/Science-Explorations-Apologia.html": {
@@ -619,12 +619,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/science\/stem-physics.html",
-		"oF": 0
-		},
-	"\/_site\/courses\/social\/American-History.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/courses\/social\/American-History.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/social\/American-Real.html": {
@@ -708,6 +702,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/css\/jquery-ui.min.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/_stylesheets\/main.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/main.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1211,6 +1218,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/bios\/_posts\/2017-07-12-Tammy-Bydlon.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Tammy-Bydlon.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/bios\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -1304,7 +1329,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/courses\/_posts\/2017-07-10-Chemistry-Apologia.md": {
+	"\/courses\/_posts\/2017-07-10-Chemistry.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1313,7 +1338,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-10-Chemistry-Apologia.html",
+		"oAP": "\/courses\/_posts\/2017-07-10-Chemistry.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1484,7 +1509,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/courses\/_posts\/2017-07-10-Physical-Science-Apologia.md": {
+	"\/courses\/_posts\/2017-07-10-Physical-Science.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1493,7 +1518,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-10-Physical-Science-Apologia.html",
+		"oAP": "\/courses\/_posts\/2017-07-10-Physical-Science.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1620,24 +1645,6 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/courses\/_posts\/2017-07-10-writing-with-confidence-2.html",
-		"oF": 0,
-		"oFM": 9,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/courses\/_posts\/2017-07-10-writing-with-confidence-half-level.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-10-writing-with-confidence-half-level.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -2132,24 +2139,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/courses\/_posts\/2017-07-12-American-History.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-12-American-History.html",
-		"oF": 0,
-		"oFM": 9,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/courses\/_posts\/2017-07-12-American-Real.md": {
 		"cS": 0,
 		"eF": 1,
@@ -2222,24 +2211,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/courses\/_posts\/2017-07-12-Classics-in-Literature.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-12-Classics-in-Literature.html",
-		"oF": 0,
-		"oFM": 9,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/courses\/_posts\/2017-07-12-Composition-Research.md": {
 		"cS": 0,
 		"eF": 1,
@@ -2286,24 +2257,6 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/courses\/_posts\/2017-07-12-Computer-Skills.html",
-		"oF": 0,
-		"oFM": 9,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/courses\/_posts\/2017-07-12-creating-writing.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-12-creating-writing.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -2623,6 +2576,16 @@
 		"oA": 2,
 		"oAP": "\/courses\/index.html",
 		"oF": 0
+		},
+	"\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/main-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/downloads\/Academy-schedule-2017-18.pdf": {
 		"ft": 8192,

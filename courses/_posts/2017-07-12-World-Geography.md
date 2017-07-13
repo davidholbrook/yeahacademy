@@ -10,6 +10,7 @@ ClassSizeLimit: none
 Prerequisite: none
 ClassType: Full Year – converging course
 ---
+**Course not offered in 2017-18**
 
 ### Class Description:
 A criminal mastermind has escaped the clutches of Scotland Yard! Of course, only the most dedicated international security team will be able to trek through dusty bazaars and remote islands and clean up the wake of catastrophes and destruction he leaves behind. Over the course of two semesters, each student has the chance to prevent GLOBAL DISASTERS (and maybe even cause a few) through competition and team strategizing. Weekly class time includes geography games, debate, trivia competitions, current news discussion, individual geography projects, etc. This course is designed for beginner and intermediate geography students: providing the foundational social studies concepts needed to analyze global events and topics and to continue to develop a 3-D mental map of global regions and relationships.

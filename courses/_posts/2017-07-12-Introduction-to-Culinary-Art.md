@@ -1,7 +1,7 @@
 ---
 layout: course
 category: 'education'
-title: 'Introduction to Culinary Art'
+title: 'Culinary Art, Introduction'
 date: 2017-07-12
 TutorName: 'Laura Wiering'
 TargetGroup:  5th – 8th Grades

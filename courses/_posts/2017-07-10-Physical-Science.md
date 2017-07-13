@@ -1,7 +1,7 @@
 ---
 layout: course
 category: 'science'
-title: 'Science Explorations (Apologia)'
+title: 'Science Explorations'
 date: 2017-07-10
 TutorName: 'Jennie Lodien'
 tags: [book-required]

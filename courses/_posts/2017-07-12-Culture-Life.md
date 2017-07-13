@@ -12,6 +12,8 @@ Prerequisite: None
 ClassType: Full Year
 ---
 
+**Course not offered 2017-18**
+
 ### Class Description:
 This Social Studies l course is a uniquely designed unit study using two great texts that will be useful as references for years to come.   An Artful Journey Through 5000 Years of History and Etiquette Intermediate will be used as we study the elements of culture and learn how and what civilizations have contributed to the Western World.  This course gives your student a worldview primer, using weekly vocabulary to understand history, religions, geography,  economy, world rulers, governments, communication, and more.  We learn how etiquette and social skills are the foundation of any successful society. 
 

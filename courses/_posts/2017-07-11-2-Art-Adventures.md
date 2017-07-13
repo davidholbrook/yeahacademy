@@ -4,7 +4,7 @@ category: 'arts'
 sub-category: 'art-studio'
 title: 'Art Adventure'
 date: 2017-07-11
-TutorName: 'Mrs. Karla Hall'
+TutorName: 'Karla Hall'
 TargetGroup: 5th – 8th Grades
 ClassSizeLimit: 20 maximum
 Prerequisite: none

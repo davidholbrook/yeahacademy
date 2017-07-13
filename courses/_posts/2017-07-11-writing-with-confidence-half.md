@@ -2,7 +2,7 @@
 layout: course
 category: 'english'
 sub-category: 'english-writing'
-title: 'Writing With Confidence 2'
+title: 'Writing With Confidence Half-Level'
 date: 2017-07-10
 tags: [book-required]
 TutorName: 'Rebecca Hope'
@@ -15,14 +15,16 @@ ClassType: Full Year
 ### Class Description:
 Class Description: Outlining, summarizing, writing from outlines, stories, topic sentences, research reports, creative writing, editing, revising, grammar, stylistic techniques, vocabulary enrichment, class games and contests, oral presentation, final portfolio.
 
+![IEW Registered Instructor](/bios/images/Registered_RED.jpg)
+
 ### Texts
 
-Fables, Myths, and Fairy Tales Writing Lessons Student Book 
+Fables, Myths, and Fairy Tales Writing Lessons Student Book
 *	Order code FMF-S from [IEW.com](http://iew.com/shop/products/all-things-fun-fascinating)
 
-*	Fix It! Grammar: Robin Hood (Book 2) Student Book 
+*	Fix It! Grammar: Robin Hood (Book 2) Student Book
 
-	*	Order code FIX-2-S from [IEW.com](http://iew.com/shop/products/fix-it-grammar-nose-tree-student-book-1) 
+	*	Order code FIX-2-S from [IEW.com](http://iew.com/shop/products/fix-it-grammar-nose-tree-student-book-1)
 
 **Required materials:** Purchased texts (see above), collegiate
 dictionary, two spiral notebooks, pocket folder, 3 x 5 index cards

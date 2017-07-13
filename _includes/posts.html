@@ -41,37 +41,41 @@ book-required
   {% endif %}
   {% if post.sub-category %}
   {% if post.sub-category contains 'art-dramatic' %}
-  <h4 class="meta"><strong>Sub-Catergory: </strong>Dramatic Arts</h4>
+  <h4 class="meta"><strong>Sub-Category: </strong>Dramatic Arts</h4>
   {% endif %}
   {% if post.sub-category contains 'art-studio' %}
-  <h4 class="meta"><strong>Sub-Catergory: </strong>Studio Arts</h4>
+  <h4 class="meta"><strong>Sub-Category: </strong>Studio Arts</h4>
   {% endif %}
   {% if post.sub-category contains 'art-history' %}
-  <h4 class="meta"><strong>Sub-Catergory: </strong>Art History</h4>
+  <h4 class="meta"><strong>Sub-Category: </strong>Art History</h4>
   {% endif %}
   {% if post.sub-category contains 'art-music' %}
-  <h4 class="meta"><strong>Sub-Catergory: </strong>Music</h4>
+  <h4 class="meta"><strong>Sub-Category: </strong>Music</h4>
   {% endif %}
   {% if post.sub-category contains 'english-writing' %}
-  <h4 class="meta"><strong>Sub-Catergory: </strong>Writing</h4>
+  <h4 class="meta"><strong>Sub-Category: </strong>Writing</h4>
   {% endif %}
   {% if post.sub-category contains 'english-literature' %}
-  <h4 class="meta"><strong>Sub-Catergory: </strong>Literature</h4>
+  <h4 class="meta"><strong>Sub-Category: </strong>Literature</h4>
   {% endif %}
   {% if post.sub-category contains 'languages-modern' %}
-  <h4 class="meta"><strong>Sub-Catergory: </strong>Modern</h4>
+  <h4 class="meta"><strong>Sub-Category: </strong>Modern</h4>
   {% endif %}
   {% if post.sub-category contains 'languages-classical' %}
-  <h4 class="meta"><strong>Sub-Catergory: </strong>Classical</h4>
+  <h4 class="meta"><strong>Sub-Category: </strong>Classical</h4>
   {% endif %}
   {% if post.sub-category contains 'social-government' %}
-  <h4 class="meta"><strong>Sub-Catergory: </strong>Government</h4>
+  <h4 class="meta"><strong>Sub-Category: </strong>Government</h4>
   {% endif %}
   {% if post.sub-category contains 'social-history' %}
-  <h4 class="meta"><strong>Sub-Catergory: </strong>History</h4>
+  <h4 class="meta"><strong>Sub-Category: </strong>History</h4>
   {% endif %}
   {% endif %}
-  <h4 class="meta"><strong>Tutor Name:</strong> {{post.TutorName}}</h4>
+
+<h4 class="meta"><strong>Tutor Name:</strong> <a href="/bios/{{post.TutorName | replace: ', CB Productions Artistic Director', '' | | replace: ', CB Productions Teaching Artist' | slugify}}.html" />
+{{post.TutorName}}
+</a></h4>
+
   {% if post.TargetGroup %}
   <h4 class="meta"><strong>Target Group:</strong> {{post.TargetGroup}}</h4>
   {% endif %}

@@ -18,6 +18,10 @@
 markdown: kramdown
 permalink: none
 
+baseurl: "/"
+# production_url : https://davidholbrook.info/yeah
+# BASE_PATH : https://davidholbrook.info/yeah
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

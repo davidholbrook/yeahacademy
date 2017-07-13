@@ -2,7 +2,7 @@
 layout: course
 category: 'languages'
 sub-category: 'languages-modern'
-title: 'American Sign Language  III (Advanced)'
+title: 'American Sign Language  III'
 date: 2017-07-12
 TutorName: 'Sheila McAlpine'
 TargetGroup: 9th – 12th Grades
