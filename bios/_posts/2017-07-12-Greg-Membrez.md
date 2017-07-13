@@ -8,11 +8,11 @@ Mr. Greg Membrez holds a B.A. in Classical Greek from the University of MN and a
 Believing in the quality education that is offered outside of the public school system, he has taught many home educated students over the years and is well acquainted with it through his brother and sister, homeschooling parents. He has tutored at The Academy since 2001. He created the Latin program for North Central University where he is also an adjunct professor as well as an adjunct professor for Concordia University, St. Paul.
 
 ### Courses
-High School Classes:
+#### High School Classes:
 * Intro to Latin
 * Latin I
 * Latin II
 * Greek I
-PSEO Courses:
+#### PSEO Courses:
 * Latin IA - LTN 111
 * Latin IB - LTN 112
