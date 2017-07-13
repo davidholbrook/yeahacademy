@@ -1,3 +1,4 @@
+@import 'jquery-ui.min.scss';
 @import 'skeleton.scss';
 
 html{
@@ -386,4 +387,10 @@ $yeah: #f8aa29;
   width: 95%;
   font-size: 1.2rem;
   margin: 0 0 0 20px;
+}
+.ui-accordion-header{
+  background: $the-academy;
+  a{
+    color: #fff;
+  }
 }

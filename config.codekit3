@@ -81,6 +81,24 @@
 		"oAP": "\/_site\/bios\/Amy-Baumhoefner.html",
 		"oF": 0
 		},
+	"\/_site\/bios\/Carla-Barwineck.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Carla-Barwineck.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Carolyn-Spargo.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Carolyn-Spargo.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Cher-Baumhoefner.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Cher-Baumhoefner.html",
+		"oF": 0
+		},
 	"\/_site\/bios\/Danielle-Lee.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -91,6 +109,24 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/bios\/dave-racer.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Dr-Bruce-Whitney.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Dr-Bruce-Whitney.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Dr-David-Buller.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Dr-David-Buller.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Dr-Kathleen-Chara.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Dr-Kathleen-Chara.html",
 		"oF": 0
 		},
 	"\/_site\/bios\/dr-skip-baumhoefner.html": {
@@ -105,10 +141,73 @@
 		"oAP": "\/_site\/bios\/elise-werger.html",
 		"oF": 0
 		},
+	"\/_site\/bios\/Greg-Membrez.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Greg-Membrez.html",
+		"oF": 0
+		},
 	"\/_site\/bios\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/bios\/index.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Jennie-Lodien.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Jennie-Lodien.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Joy-Carlson.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Joy-Carlson.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/jquery-ui.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/bios\/min\/jquery-ui.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/bios\/Karla-Hall.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Karla-Hall.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Kay-Kelly.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Kay-Kelly.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Laura-Wiering.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Laura-Wiering.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Leigh-Delisi.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Leigh-Delisi.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Linda-López.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Linda-López.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Mike-Pehl.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Mike-Pehl.html",
 		"oF": 0
 		},
 	"\/_site\/bios\/Paula-Karjalahti.html": {
@@ -117,10 +216,34 @@
 		"oAP": "\/_site\/bios\/Paula-Karjalahti.html",
 		"oF": 0
 		},
+	"\/_site\/bios\/Phyllis-Smith.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Phyllis-Smith.html",
+		"oF": 0
+		},
 	"\/_site\/bios\/rebecca-hope.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/bios\/rebecca-hope.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Rita-Lew.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Rita-Lew.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Sheila-McAlpine.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Sheila-McAlpine.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/Susan-Kilbride.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/Susan-Kilbride.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/arts\/2-Acrylic-Painting.html": {
@@ -607,6 +730,12 @@
 		"oAP": "\/_site\/css\/main.css.map",
 		"oF": 0
 		},
+	"\/_site\/downloads\/Academy-schedule-2017-18.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/downloads\/Academy-schedule-2017-18.pdf",
+		"oF": 0
+		},
 	"\/_site\/favicon.ico": {
 		"ft": 8192,
 		"oA": 2,
@@ -771,6 +900,19 @@
 		"oAP": "\/_site\/index.html",
 		"oF": 0
 		},
+	"\/_stylesheets\/jquery-ui.min.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/jquery-ui.min.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/_stylesheets\/main.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -833,6 +975,60 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/bios\/_posts\/2017-07-12-Carla-Barwineck.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Carla-Barwineck.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Carolyn-Spargo.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Carolyn-Spargo.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Cher-Baumhoefner.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Cher-Baumhoefner.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/bios\/_posts\/2017-07-12-Danielle-Lee.md": {
 		"cS": 0,
 		"eF": 1,
@@ -861,6 +1057,60 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/bios\/_posts\/2017-07-12-dave-racer.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Dr-Bruce-Whitney.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Dr-Bruce-Whitney.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Dr-David-Buller.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Dr-David-Buller.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Dr-Kathleen-Chara.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Dr-Kathleen-Chara.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -905,6 +1155,168 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/bios\/_posts\/2017-07-12-Greg-Membrez.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Greg-Membrez.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Jennie-Lodien.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Jennie-Lodien.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Joy-Carlson.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Joy-Carlson.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Karla-Hall.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Karla-Hall.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Kay-Kelly.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Kay-Kelly.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Laura-Wiering.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Laura-Wiering.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Leigh-Delisi.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Leigh-Delisi.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Linda-López.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Linda-López.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Mike-Pehl.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Mike-Pehl.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/bios\/_posts\/2017-07-12-Paula-Karjalahti.md": {
 		"cS": 0,
 		"eF": 1,
@@ -915,6 +1327,24 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/bios\/_posts\/2017-07-12-Paula-Karjalahti.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Phyllis-Smith.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Phyllis-Smith.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -941,11 +1371,74 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/bios\/_posts\/2017-07-12-Rita-Lew.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Rita-Lew.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Sheila-McAlpine.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Sheila-McAlpine.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Susan-Kilbride.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-Susan-Kilbride.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/bios\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bios\/index.html",
 		"oF": 0
+		},
+	"\/bios\/jquery-ui.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/bios\/min\/jquery-ui.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/courses\/_includes\/posts.html": {
 		"ft": 8192,
