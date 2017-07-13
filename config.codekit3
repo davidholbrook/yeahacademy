@@ -1236,6 +1236,16 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/bios\/images\/Registered_RED.jpg": {
+		"ft": 16384,
+		"iS": 30038,
+		"oA": 0,
+		"oAP": "\/bios\/images\/Registered_RED.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/bios\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -2570,6 +2580,17 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/courses\/images\/acrylic.png": {
+		"ft": 32768,
+		"iS": 21059785,
+		"oA": 0,
+		"oAP": "\/courses\/images\/acrylic.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/courses\/index.html": {
 		"ft": 8192,
