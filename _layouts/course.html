@@ -2,14 +2,14 @@
 <html lang="{{ page.lang | default: site.lang | default: en }}">
 <title>{{page.title}} || Academy Courses</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="http://localhost:5757/favicon.ico?v=2"/>
-<link rel="apple-touch-icon" href="http://localhost:5757/favicon.png?v=2"/>
+<link rel="shortcut icon" href= {{ "favicon.ico?v=2" | absolute_url }} />
+<link rel="apple-touch-icon" href= {{ "favicon.png?v=2" | absolute_url }} />
 <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel="stylesheet">
-<link rel="stylesheet" href="/css/main.css"/>
+<link rel="stylesheet" href={{ "css/main.css" | absolute_url }} />
 <body>
   <div class="header">
     <div class="topbar">
-      <div class="back_btn"><a href="/courses/">&larr; Back to Courses</a></div>
+      <div class="back_btn"><a href="{{site.url}}/courses/">&larr; Back to Courses</a></div>
       <nav class="mainNav">
         <ul>
           <li>YEAH</li>
@@ -99,13 +99,13 @@
     <h4 class="warning"><strong>Prerequisite:</strong> {{page.Prerequisite}}</h4>
     {% endif %}
     {% if page.tags contains 'new' %}
-      <img src="/images/plus-simple-line-icons.svg" alt="new course" class="iconsWrap" />
+      <img src="{{site.url}}/images/plus-simple-line-icons.svg" alt="new course" class="iconsWrap" />
     {% endif %}
     {% if page.tags contains 'AP' %}
-      <img src="/images/badge-simple-line-icons.svg" alt="AP" class="iconsWrap" />
+      <img src="{{site.url}}/images/badge-simple-line-icons.svg" alt="AP" class="iconsWrap" />
     {% endif %}
     {% if page.tags contains 'book-required' %}
-      <img src="/images/book-open-simple-line-icons.svg" alt="book-required" class="iconsWrap" />
+      <img src="{{site.url}}/images/book-open-simple-line-icons.svg" alt="book-required" class="iconsWrap" />
     {% endif %}
     {{ content }}
     </div>

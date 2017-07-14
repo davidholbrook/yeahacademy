@@ -45,6 +45,12 @@
 		"oAP": "\/_includes\/posts.html",
 		"oF": 0
 		},
+	"\/_index-old.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_index-old.html",
+		"oF": 0
+		},
 	"\/_layouts\/bio.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -81,46 +87,40 @@
 		"oAP": "\/_plugins\/if_file_exists.rb",
 		"oF": 0
 		},
-	"\/_site\/404.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/404.html",
-		"oF": 0
-		},
 	"\/_site\/bios\/alex-leone.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/bios\/alex-leone.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Amy-Baumhoefner.html": {
+	"\/_site\/bios\/amy-baumhoefner.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Amy-Baumhoefner.html",
+		"oAP": "\/_site\/bios\/amy-baumhoefner.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Carla-Barwineck.html": {
+	"\/_site\/bios\/carla-barwineck.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Carla-Barwineck.html",
+		"oAP": "\/_site\/bios\/carla-barwineck.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Carolyn-Spargo.html": {
+	"\/_site\/bios\/carolyn-spargo.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Carolyn-Spargo.html",
+		"oAP": "\/_site\/bios\/carolyn-spargo.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Cher-Baumhoefner.html": {
+	"\/_site\/bios\/cher-baumhoefner.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Cher-Baumhoefner.html",
+		"oAP": "\/_site\/bios\/cher-baumhoefner.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Danielle-Lee.html": {
+	"\/_site\/bios\/danielle-lee.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Danielle-Lee.html",
+		"oAP": "\/_site\/bios\/danielle-lee.html",
 		"oF": 0
 		},
 	"\/_site\/bios\/dave-racer.html": {
@@ -129,22 +129,22 @@
 		"oAP": "\/_site\/bios\/dave-racer.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Dr-Bruce-Whitney.html": {
+	"\/_site\/bios\/dr-bruce-whitney.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Dr-Bruce-Whitney.html",
+		"oAP": "\/_site\/bios\/dr-bruce-whitney.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Dr-David-Buller.html": {
+	"\/_site\/bios\/dr-david-buller.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Dr-David-Buller.html",
+		"oAP": "\/_site\/bios\/dr-david-buller.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Dr-Kathleen-Chara.html": {
+	"\/_site\/bios\/dr-kathleen-chara.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Dr-Kathleen-Chara.html",
+		"oAP": "\/_site\/bios\/dr-kathleen-chara.html",
 		"oF": 0
 		},
 	"\/_site\/bios\/dr-skip-baumhoefner.html": {
@@ -159,21 +159,11 @@
 		"oAP": "\/_site\/bios\/elise-werger.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Greg-Membrez.html": {
+	"\/_site\/bios\/greg-membrez.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Greg-Membrez.html",
+		"oAP": "\/_site\/bios\/greg-membrez.html",
 		"oF": 0
-		},
-	"\/_site\/bios\/images\/Registered_RED.jpg": {
-		"ft": 16384,
-		"iS": 30038,
-		"oA": 0,
-		"oAP": "\/_site\/bios\/images\/Registered_RED.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/_site\/bios\/index.html": {
 		"ft": 8192,
@@ -181,73 +171,64 @@
 		"oAP": "\/_site\/bios\/index.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Jennie-Lodien.html": {
+	"\/_site\/bios\/jennie-lodien.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Jennie-Lodien.html",
+		"oAP": "\/_site\/bios\/jennie-lodien.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Joy-Carlson.html": {
+	"\/_site\/bios\/joy-carlson.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Joy-Carlson.html",
+		"oAP": "\/_site\/bios\/joy-carlson.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/jquery-ui.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/bios\/min\/jquery-ui.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/bios\/Karla-Hall.html": {
+	"\/_site\/bios\/karla-hall.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Karla-Hall.html",
+		"oAP": "\/_site\/bios\/karla-hall.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Kay-Kelly.html": {
+	"\/_site\/bios\/kay-kelly.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Kay-Kelly.html",
+		"oAP": "\/_site\/bios\/kay-kelly.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Laura-Wiering.html": {
+	"\/_site\/bios\/laura-wiering.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Laura-Wiering.html",
+		"oAP": "\/_site\/bios\/laura-wiering.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Leigh-Delisi.html": {
+	"\/_site\/bios\/leigh-delisi.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Leigh-Delisi.html",
+		"oAP": "\/_site\/bios\/leigh-delisi.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Linda-López.html": {
+	"\/_site\/bios\/linda-lópez.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Linda-López.html",
+		"oAP": "\/_site\/bios\/linda-lópez.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Mike-Pehl.html": {
+	"\/_site\/bios\/mike-pehl.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Mike-Pehl.html",
+		"oAP": "\/_site\/bios\/mike-pehl.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Paula-Karjalahti.html": {
+	"\/_site\/bios\/paula-karjalahti.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Paula-Karjalahti.html",
+		"oAP": "\/_site\/bios\/paula-karjalahti.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Phyllis-Smith.html": {
+	"\/_site\/bios\/phyllis-smith.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Phyllis-Smith.html",
+		"oAP": "\/_site\/bios\/phyllis-smith.html",
 		"oF": 0
 		},
 	"\/_site\/bios\/rebecca-hope.html": {
@@ -256,28 +237,28 @@
 		"oAP": "\/_site\/bios\/rebecca-hope.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Rita-Lew.html": {
+	"\/_site\/bios\/rita-lew.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Rita-Lew.html",
+		"oAP": "\/_site\/bios\/rita-lew.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Sheila-McAlpine.html": {
+	"\/_site\/bios\/sheila-mcalpine.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Sheila-McAlpine.html",
+		"oAP": "\/_site\/bios\/sheila-mcalpine.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Susan-Kilbride.html": {
+	"\/_site\/bios\/susan-kilbride.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Susan-Kilbride.html",
+		"oAP": "\/_site\/bios\/susan-kilbride.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/Tammy-Bydlon.html": {
+	"\/_site\/bios\/tammy-bydlon.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/bios\/Tammy-Bydlon.html",
+		"oAP": "\/_site\/bios\/tammy-bydlon.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/arts\/2-Acrylic-Painting.html": {
@@ -502,17 +483,6 @@
 		"oAP": "\/_site\/courses\/english\/writing-with-confidence-half.html",
 		"oF": 0
 		},
-	"\/_site\/courses\/images\/acrylic.png": {
-		"ft": 32768,
-		"iS": 112311,
-		"oA": 0,
-		"oAP": "\/_site\/courses\/images\/acrylic.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/_site\/courses\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -733,186 +703,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/social\/World-History.html",
-		"oF": 0
-		},
-	"\/_site\/css\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/css\/main-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/_site\/downloads\/Academy-schedule-2017-18.pdf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/downloads\/Academy-schedule-2017-18.pdf",
-		"oF": 0
-		},
-	"\/_site\/favicon.ico": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/favicon.ico",
-		"oF": 0
-		},
-	"\/_site\/favicon.png": {
-		"ft": 32768,
-		"iS": 10498,
-		"oA": 0,
-		"oAP": "\/_site\/favicon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/academyLogo.png": {
-		"ft": 32768,
-		"iS": 8676,
-		"oA": 0,
-		"oAP": "\/_site\/images\/academyLogo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ap-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/ap-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/badge-simple-line-icons.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/badge-simple-line-icons.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/bios-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/bios-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/bios-logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/bios-logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/book-open-simple-line-icons.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/book-open-simple-line-icons.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/calendar-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/calendar-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/courses-logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/courses-logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/coursework-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/coursework-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/feat-img.jpg": {
-		"ft": 16384,
-		"iS": 97611,
-		"oA": 0,
-		"oAP": "\/_site\/images\/feat-img.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/images\/graduation-simple-line-icons.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/graduation-simple-line-icons.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/no-sign-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/no-sign-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/plus-simple-line-icons.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/plus-simple-line-icons.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/pseo-home.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/pseo-home.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/index.html",
 		"oF": 0
 		},
 	"\/_stylesheets\/jquery-ui.min.scss": {

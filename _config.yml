@@ -18,9 +18,7 @@
 markdown: kramdown
 permalink: none
 
-baseurl: "/"
-# production_url : https://davidholbrook.info/yeah
-# BASE_PATH : https://davidholbrook.info/yeah
+url: http://ninja.local:5757
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
