@@ -15,6 +15,12 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.htaccess",
+		"oF": 0
+		},
 	"\/.sass-cache\/96924ab4cff3783165dae2b1c2fa5efeebc0f83e\/simple-grid2.scssc": {
 		"ft": 8192,
 		"oA": 2,
@@ -73,6 +79,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_plugins\/if_file_exists.rb",
+		"oF": 0
+		},
+	"\/_site\/404.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/404.html",
 		"oF": 0
 		},
 	"\/_site\/bios\/alex-leone.html": {
@@ -153,6 +165,16 @@
 		"oAP": "\/_site\/bios\/Greg-Membrez.html",
 		"oF": 0
 		},
+	"\/_site\/bios\/images\/Registered_RED.jpg": {
+		"ft": 16384,
+		"iS": 30038,
+		"oA": 0,
+		"oAP": "\/_site\/bios\/images\/Registered_RED.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/bios\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -170,6 +192,15 @@
 		"oA": 2,
 		"oAP": "\/_site\/bios\/Joy-Carlson.html",
 		"oF": 0
+		},
+	"\/_site\/bios\/jquery-ui.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/bios\/min\/jquery-ui.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/_site\/bios\/Karla-Hall.html": {
 		"ft": 8192,
@@ -471,6 +502,17 @@
 		"oAP": "\/_site\/courses\/english\/writing-with-confidence-half.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/images\/acrylic.png": {
+		"ft": 32768,
+		"iS": 112311,
+		"oA": 0,
+		"oAP": "\/_site\/courses\/images\/acrylic.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_site\/courses\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -693,6 +735,186 @@
 		"oAP": "\/_site\/courses\/social\/World-History.html",
 		"oF": 0
 		},
+	"\/_site\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/css\/main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/_site\/downloads\/Academy-schedule-2017-18.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/downloads\/Academy-schedule-2017-18.pdf",
+		"oF": 0
+		},
+	"\/_site\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/favicon.ico",
+		"oF": 0
+		},
+	"\/_site\/favicon.png": {
+		"ft": 32768,
+		"iS": 10498,
+		"oA": 0,
+		"oAP": "\/_site\/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/academyLogo.png": {
+		"ft": 32768,
+		"iS": 8676,
+		"oA": 0,
+		"oAP": "\/_site\/images\/academyLogo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ap-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/ap-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/badge-simple-line-icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/badge-simple-line-icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/bios-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/bios-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/bios-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/bios-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/book-open-simple-line-icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/book-open-simple-line-icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/calendar-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/calendar-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/courses-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/courses-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/coursework-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/coursework-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/feat-img.jpg": {
+		"ft": 16384,
+		"iS": 97611,
+		"oA": 0,
+		"oAP": "\/_site\/images\/feat-img.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/graduation-simple-line-icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/graduation-simple-line-icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/no-sign-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/no-sign-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/plus-simple-line-icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/plus-simple-line-icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/pseo-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/pseo-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/index.html",
+		"oF": 0
+		},
 	"\/_stylesheets\/jquery-ui.min.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -750,7 +972,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Amy-Baumhoefner.md": {
+	"\/bios\/_posts\/2017-07-12-amy-baumhoefner.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -759,7 +981,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Amy-Baumhoefner.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-amy-baumhoefner.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -768,7 +990,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Carla-Barwineck.md": {
+	"\/bios\/_posts\/2017-07-12-carla-barwineck.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -777,7 +999,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Carla-Barwineck.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-carla-barwineck.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -786,7 +1008,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Carolyn-Spargo.md": {
+	"\/bios\/_posts\/2017-07-12-carolyn-spargo.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -795,7 +1017,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Carolyn-Spargo.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-carolyn-spargo.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -804,7 +1026,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Cher-Baumhoefner.md": {
+	"\/bios\/_posts\/2017-07-12-cher-baumhoefner.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -813,7 +1035,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Cher-Baumhoefner.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-cher-baumhoefner.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -822,7 +1044,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Danielle-Lee.md": {
+	"\/bios\/_posts\/2017-07-12-danielle-lee.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -831,7 +1053,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Danielle-Lee.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-danielle-lee.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -858,7 +1080,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Dr-Bruce-Whitney.md": {
+	"\/bios\/_posts\/2017-07-12-dr-bruce-whitney.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -867,7 +1089,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Dr-Bruce-Whitney.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-dr-bruce-whitney.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -876,7 +1098,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Dr-David-Buller.md": {
+	"\/bios\/_posts\/2017-07-12-dr-david-buller.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -885,7 +1107,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Dr-David-Buller.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-dr-david-buller.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -894,7 +1116,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Dr-Kathleen-Chara.md": {
+	"\/bios\/_posts\/2017-07-12-dr-kathleen-chara.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -903,7 +1125,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Dr-Kathleen-Chara.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-dr-kathleen-chara.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -948,7 +1170,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Greg-Membrez.md": {
+	"\/bios\/_posts\/2017-07-12-greg-membrez.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -957,7 +1179,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Greg-Membrez.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-greg-membrez.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -966,7 +1188,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Jennie-Lodien.md": {
+	"\/bios\/_posts\/2017-07-12-jennie-lodien.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -975,7 +1197,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Jennie-Lodien.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-jennie-lodien.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -984,7 +1206,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Joy-Carlson.md": {
+	"\/bios\/_posts\/2017-07-12-joy-carlson.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -993,7 +1215,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Joy-Carlson.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-joy-carlson.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1002,7 +1224,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Karla-Hall.md": {
+	"\/bios\/_posts\/2017-07-12-karla-hall.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1011,7 +1233,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Karla-Hall.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-karla-hall.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1020,7 +1242,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Kay-Kelly.md": {
+	"\/bios\/_posts\/2017-07-12-kay-kelly.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1029,7 +1251,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Kay-Kelly.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-kay-kelly.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1038,7 +1260,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Laura-Wiering.md": {
+	"\/bios\/_posts\/2017-07-12-laura-wiering.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1047,7 +1269,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Laura-Wiering.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-laura-wiering.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1056,7 +1278,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Leigh-Delisi.md": {
+	"\/bios\/_posts\/2017-07-12-leigh-delisi.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1065,7 +1287,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Leigh-Delisi.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-leigh-delisi.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1074,7 +1296,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Linda-López.md": {
+	"\/bios\/_posts\/2017-07-12-linda-lópez.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1083,7 +1305,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Linda-López.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-linda-lópez.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1092,7 +1314,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Mike-Pehl.md": {
+	"\/bios\/_posts\/2017-07-12-mike-pehl.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1101,7 +1323,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Mike-Pehl.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-mike-pehl.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1110,7 +1332,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Paula-Karjalahti.md": {
+	"\/bios\/_posts\/2017-07-12-paula-karjalahti.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1119,7 +1341,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Paula-Karjalahti.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-paula-karjalahti.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1128,7 +1350,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Phyllis-Smith.md": {
+	"\/bios\/_posts\/2017-07-12-phyllis-smith.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1137,7 +1359,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Phyllis-Smith.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-phyllis-smith.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1164,7 +1386,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Rita-Lew.md": {
+	"\/bios\/_posts\/2017-07-12-rita-lew.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1173,7 +1395,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Rita-Lew.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-rita-lew.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1182,7 +1404,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Sheila-McAlpine.md": {
+	"\/bios\/_posts\/2017-07-12-sheila-mcalpine.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1191,7 +1413,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Sheila-McAlpine.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-sheila-mcalpine.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1200,7 +1422,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Susan-Kilbride.md": {
+	"\/bios\/_posts\/2017-07-12-susan-kilbride.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1209,7 +1431,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Susan-Kilbride.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-susan-kilbride.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1218,7 +1440,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-Tammy-Bydlon.md": {
+	"\/bios\/_posts\/2017-07-12-tammy-bydlon.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1227,7 +1449,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-Tammy-Bydlon.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-tammy-bydlon.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
