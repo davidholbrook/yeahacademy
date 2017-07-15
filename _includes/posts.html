@@ -72,7 +72,7 @@ book-required
   {% endif %}
   {% endif %}
 
-<h4 class="meta"><strong>Tutor Name:</strong> <a href="/bios/{{post.TutorName | replace: ', CB Productions Artistic Director', '' | | replace: ', CB Productions Teaching Artist' | slugify}}.html" />
+<h4 class="meta"><strong>Tutor Name:</strong> <a href="/bios/{{post.TutorName | replace: 'Carla Barwineck, CB Productions Artistic Director', 'CB Productions' | | replace: 'Joy Carlson, CB Productions Teaching Artist', 'CB Productions' | slugify}}.html" />
 {{post.TutorName}}
 </a></h4>
 

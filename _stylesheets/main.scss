@@ -147,8 +147,9 @@ $yeah: #f8aa29;
       font-weight: $font-weight-heavy;
     }
 }
+// @path
 .featImg{
-  background: url('../../images/feat-img.jpg') center;
+  background: url('/images/feat-img.jpg') center;
   background-size: cover;
 
   margin: 0;
@@ -254,9 +255,9 @@ $yeah: #f8aa29;
       margin-top: 120px;
     }
     @media(max-width: 1300px){
-        margin-top: -30px;
         margin-left: 18.75rem;
         width: 30%;
+        top: 20px;
     }
     @media(max-width: 630px){
         margin: 0 0 0 10px;
@@ -270,6 +271,7 @@ $yeah: #f8aa29;
   @media(max-width: 1300px){
     width: 100%;
     margin-bottom: 0px;
+    margin-top: -40px;
   }
   @media(max-width: 630px){
     float: none;
@@ -278,11 +280,44 @@ $yeah: #f8aa29;
     margin-bottom: 20px;
   }
 }
+// @path
 .grid__title--course{
-    background: url(../images/courses-logo.svg) left bottom no-repeat;
+    background: url(/images/courses-logo.svg) left bottom no-repeat;
+    p{
+      @media(max-width: 1300px){
+        top: 40px;
+        position: relative;
+      }
+    }
+    @media(max-width: 1300px){
+        margin-top: -75px;
+    }
 }
 .grid__title--bios{
-    background: url(../images/bios-logo.svg) left bottom no-repeat;
+    background: url(/images/bios-logo.svg) left bottom no-repeat;
+    p{
+      margin-top: 50px;
+      margin-left: 30px;
+      @media(min-width: 1300px){
+        margin-top: 120px;
+      }
+      @media(max-width: 1300px){
+          margin-top: 0px;
+          margin-left: 15rem;
+          width: 70%;
+      }
+      @media(max-width: 630px){
+          margin: 0 0 0 10px;
+          width: 70%;
+      }
+
+    }
+    @media(max-width: 1300px){
+      float: none;
+      width: 100%;
+      margin-bottom: 20px;
+      margin-top: 20px;
+    }
 }
 
 .grid__legend{
@@ -361,6 +396,10 @@ $yeah: #f8aa29;
 }
 .spacer{
   margin-top: 50px;
+}
+.disclaimer{
+  border-radius: 12px;
+	border: solid 2px $the-academy;
 }
 //sorters
 .sorters{

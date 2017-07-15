@@ -1,7 +1,7 @@
 ---
 layout: bio
 date: 2017-07-12
-Name: 'Jennie Lodien'
+Name: 'Lodien, Jennie'
 ---
 Jennie Lodien is a graduate of St. Cloud State, Minnesota, with a B.S. in Business and minor in Graphic Design. Mrs. Lodien brings both a love of learning and an amazement over Creation to her classroom where both book work and hands-on experiments will help convey concepts about our physical earth. She won high marks as a science substitute at the YEAH Academy in 2009 and returned to teach the Apologia Physical Science course in 2011. She has taught and co-taught a variety of courses including Apologia General Science, Physical Science and Chemistry, Intro to Logic, General Art, Survey of Literature Genres, Latin, Typography and Page Layout, and Algebra.
 
@@ -10,4 +10,3 @@ In 1992, after a 4-year run working in the art department at the Billy Graham Ev
 ### Courses
 #### High School Classes:             
 * Physical Science
-* Chemistry

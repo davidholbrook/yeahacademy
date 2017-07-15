@@ -1,7 +1,7 @@
 ---
 layout: course
 category: 'education'
-title: 'Computer Programming, Intermediate: 3d Games & Simulations '
+title: 'Computer Programming, Intermediate: 3D Games & Simulations '
 date: 2017-07-10
 tags: [new]
 TutorName: 'Alex Leone'

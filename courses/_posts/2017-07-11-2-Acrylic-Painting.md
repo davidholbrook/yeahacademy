@@ -2,13 +2,13 @@
 layout: course
 category: 'arts'
 sub-category: 'art-studio'
-title: 'Acrylic Painting'
+title: 'Acrylic Painting 2'
 date: 2017-07-11
 TutorName: 'Karla Hall'
 TargetGroup: 7th – 12th Grades
 ClassSizeLimit: 20 maximum
-Prerequisite: none
-ClassType: Full Year
+Prerequisite: Acrylic 1
+ClassType: This full year course is NOT open to mid-year entry of new students. 
 ---
 
 ![Image of Acrylic painting](/courses/images/acrylic.png)

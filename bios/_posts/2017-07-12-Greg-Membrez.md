@@ -1,7 +1,7 @@
 ---
 layout: bio
 date: 2017-07-12
-Name: 'Greg Membrez'
+Name: 'Membrez, Greg'
 ---
 Mr. Greg Membrez holds a B.A. in Classical Greek from the University of MN and an M.A. in Classical Greek and Latin. He has been a teaching assistant in Greek, Latin and Biblical studies including History of the Old Testament, History of Greek Religion and Medical Terminology. He has extensive study in the literature of the New Testament and early Christian literature in both Greek and Coptic.
 
@@ -9,7 +9,6 @@ Believing in the quality education that is offered outside of the public school 
 
 ### Courses
 #### High School Classes:
-* Intro to Latin
 * Latin I
 * Latin II
 * Greek I

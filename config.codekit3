@@ -87,6 +87,18 @@
 		"oAP": "\/_plugins\/if_file_exists.rb",
 		"oF": 0
 		},
+	"\/_site\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/.htaccess",
+		"oF": 0
+		},
+	"\/_site\/404.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/404.html",
+		"oF": 0
+		},
 	"\/_site\/bios\/alex-leone.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -99,16 +111,16 @@
 		"oAP": "\/_site\/bios\/amy-baumhoefner.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/carla-barwineck.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/bios\/carla-barwineck.html",
-		"oF": 0
-		},
 	"\/_site\/bios\/carolyn-spargo.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/bios\/carolyn-spargo.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/cb-productions.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/cb-productions.html",
 		"oF": 0
 		},
 	"\/_site\/bios\/cher-baumhoefner.html": {
@@ -147,6 +159,12 @@
 		"oAP": "\/_site\/bios\/dr-kathleen-chara.html",
 		"oF": 0
 		},
+	"\/_site\/bios\/dr-kelly-halderman.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/dr-kelly-halderman.html",
+		"oF": 0
+		},
 	"\/_site\/bios\/dr-skip-baumhoefner.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -165,10 +183,26 @@
 		"oAP": "\/_site\/bios\/greg-membrez.html",
 		"oF": 0
 		},
+	"\/_site\/bios\/images\/Registered_RED.jpg": {
+		"ft": 16384,
+		"iS": 30038,
+		"oA": 0,
+		"oAP": "\/_site\/bios\/images\/Registered_RED.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/bios\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/bios\/index.html",
+		"oF": 0
+		},
+	"\/_site\/bios\/janie-bender.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/bios\/janie-bender.html",
 		"oF": 0
 		},
 	"\/_site\/bios\/jennie-lodien.html": {
@@ -177,11 +211,14 @@
 		"oAP": "\/_site\/bios\/jennie-lodien.html",
 		"oF": 0
 		},
-	"\/_site\/bios\/joy-carlson.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/bios\/joy-carlson.html",
-		"oF": 0
+	"\/_site\/bios\/jquery-ui.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/bios\/min\/jquery-ui.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/_site\/bios\/karla-hall.html": {
 		"ft": 8192,
@@ -423,6 +460,12 @@
 		"oAP": "\/_site\/courses\/education\/study-skills-for-college-students.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/english\/AP-Language-and-Composition.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/english\/AP-Language-and-Composition.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/english\/book-club.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -483,6 +526,17 @@
 		"oAP": "\/_site\/courses\/english\/writing-with-confidence-half.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/images\/acrylic.png": {
+		"ft": 32768,
+		"iS": 112311,
+		"oA": 0,
+		"oAP": "\/_site\/courses\/images\/acrylic.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_site\/courses\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -505,12 +559,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/languages\/American-Sign-3.html",
-		"oF": 0
-		},
-	"\/_site\/courses\/languages\/AP-Language-and-Composition.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/courses\/languages\/AP-Language-and-Composition.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/languages\/Chinese-I.html": {
@@ -561,6 +609,18 @@
 		"oAP": "\/_site\/courses\/languages\/swedish.html",
 		"oF": 0
 		},
+	"\/_site\/courses\/mathematics\/Algebra-1.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/mathematics\/Algebra-1.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/mathematics\/Algebra-2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/mathematics\/Algebra-2.html",
+		"oF": 0
+		},
 	"\/_site\/courses\/mathematics\/geometry.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -571,6 +631,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/psychology\/psych.html",
+		"oF": 0
+		},
+	"\/_site\/courses\/science\/Anatomy-Physiology.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/courses\/science\/Anatomy-Physiology.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/science\/AP-Physics-I-Algebra-Based-copy.html": {
@@ -613,12 +679,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/courses\/science\/Physical-Science.html",
-		"oF": 0
-		},
-	"\/_site\/courses\/science\/Science-Explorations-Apologia.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/courses\/science\/Science-Explorations-Apologia.html",
 		"oF": 0
 		},
 	"\/_site\/courses\/science\/Science-Explorations.html": {
@@ -705,6 +765,186 @@
 		"oAP": "\/_site\/courses\/social\/World-History.html",
 		"oF": 0
 		},
+	"\/_site\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/css\/main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/_site\/downloads\/Academy-schedule-2017-18.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/downloads\/Academy-schedule-2017-18.pdf",
+		"oF": 0
+		},
+	"\/_site\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/favicon.ico",
+		"oF": 0
+		},
+	"\/_site\/favicon.png": {
+		"ft": 32768,
+		"iS": 10498,
+		"oA": 0,
+		"oAP": "\/_site\/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/academyLogo.png": {
+		"ft": 32768,
+		"iS": 8676,
+		"oA": 0,
+		"oAP": "\/_site\/images\/academyLogo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ap-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/ap-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/badge-simple-line-icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/badge-simple-line-icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/bios-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/bios-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/bios-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/bios-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/book-open-simple-line-icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/book-open-simple-line-icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/calendar-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/calendar-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/courses-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/courses-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/coursework-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/coursework-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/feat-img.jpg": {
+		"ft": 16384,
+		"iS": 97611,
+		"oA": 0,
+		"oAP": "\/_site\/images\/feat-img.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/graduation-simple-line-icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/graduation-simple-line-icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/no-sign-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/no-sign-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/plus-simple-line-icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/plus-simple-line-icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/pseo-home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/pseo-home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/index.html",
+		"oF": 0
+		},
 	"\/_stylesheets\/jquery-ui.min.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -762,7 +1002,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-amy-baumhoefner.md": {
+	"\/bios\/_posts\/2017-07-12-Amy-Baumhoefner.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -780,25 +1020,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-carla-barwineck.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-carla-barwineck.html",
-		"oF": 0,
-		"oFM": 9,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/bios\/_posts\/2017-07-12-carolyn-spargo.md": {
+	"\/bios\/_posts\/2017-07-12-Carolyn-Spargo.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -816,7 +1038,25 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-cher-baumhoefner.md": {
+	"\/bios\/_posts\/2017-07-12-cb-productions.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-cb-productions.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Cher-Baumhoefner.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -834,7 +1074,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-danielle-lee.md": {
+	"\/bios\/_posts\/2017-07-12-Danielle-Lee.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -870,7 +1110,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-dr-bruce-whitney.md": {
+	"\/bios\/_posts\/2017-07-12-Dr-Bruce-Whitney.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -888,7 +1128,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-dr-david-buller.md": {
+	"\/bios\/_posts\/2017-07-12-Dr-David-Buller.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -906,7 +1146,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-dr-kathleen-chara.md": {
+	"\/bios\/_posts\/2017-07-12-Dr-Kathleen-Chara.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -916,6 +1156,24 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/bios\/_posts\/2017-07-12-dr-kathleen-chara.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Dr-Kelly-Halderman.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-dr-kelly-halderman.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -960,7 +1218,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-greg-membrez.md": {
+	"\/bios\/_posts\/2017-07-12-Greg-Membrez.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -978,7 +1236,25 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-jennie-lodien.md": {
+	"\/bios\/_posts\/2017-07-12-janie-bender.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bios\/_posts\/2017-07-12-janie-bender.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bios\/_posts\/2017-07-12-Jennie-Lodien.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -996,25 +1272,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-joy-carlson.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-joy-carlson.html",
-		"oF": 0,
-		"oFM": 9,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/bios\/_posts\/2017-07-12-karla-hall.md": {
+	"\/bios\/_posts\/2017-07-12-Karla-Hall.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1032,7 +1290,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-kay-kelly.md": {
+	"\/bios\/_posts\/2017-07-12-Kay-Kelly.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1050,7 +1308,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-laura-wiering.md": {
+	"\/bios\/_posts\/2017-07-12-Laura-Wiering.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1068,7 +1326,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-leigh-delisi.md": {
+	"\/bios\/_posts\/2017-07-12-Leigh-Delisi.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1086,7 +1344,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-linda-lópez.md": {
+	"\/bios\/_posts\/2017-07-12-Linda-López.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1104,7 +1362,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-mike-pehl.md": {
+	"\/bios\/_posts\/2017-07-12-Mike-Pehl.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1122,7 +1380,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-paula-karjalahti.md": {
+	"\/bios\/_posts\/2017-07-12-Paula-Karjalahti.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1140,7 +1398,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-phyllis-smith.md": {
+	"\/bios\/_posts\/2017-07-12-Phyllis-Smith.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1176,7 +1434,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-rita-lew.md": {
+	"\/bios\/_posts\/2017-07-12-Rita-Lew.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1194,7 +1452,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-sheila-mcalpine.md": {
+	"\/bios\/_posts\/2017-07-12-Sheila-McAlpine.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1212,7 +1470,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-susan-kilbride.md": {
+	"\/bios\/_posts\/2017-07-12-Susan-Kilbride.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1221,7 +1479,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/bios\/_posts\/2017-07-12-susan-kilbride.html",
+		"oAP": "\/bios\/_posts\/2017-07-12-Susan-Kilbride.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1230,7 +1488,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bios\/_posts\/2017-07-12-tammy-bydlon.md": {
+	"\/bios\/_posts\/2017-07-12-Tammy-Bydlon.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1549,24 +1807,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/courses\/_posts\/2017-07-10-Science-Explorations-Apologia.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/courses\/_posts\/2017-07-10-Science-Explorations-Apologia.html",
-		"oF": 0,
-		"oFM": 9,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/courses\/_posts\/2017-07-10-Science-Explorations.md": {
 		"cS": 0,
 		"eF": 1,
@@ -1667,6 +1907,24 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/courses\/_posts\/2017-07-10-writing-with-confidence-2.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-11-2-Acrylic-Painting-1.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-11-2-Acrylic-Painting-1.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -2233,6 +2491,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/courses\/_posts\/2017-07-12-Anatomy-Physiology.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-12-Anatomy-Physiology.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/courses\/_posts\/2017-07-12-Composition-Research.md": {
 		"cS": 0,
 		"eF": 1,
@@ -2585,6 +2861,42 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/courses\/_posts\/2017-07-12-World-History.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-14-Algebra-1.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-14-Algebra-1.html",
+		"oF": 0,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/courses\/_posts\/2017-07-14-Algebra-2.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/courses\/_posts\/2017-07-14-Algebra-2.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
