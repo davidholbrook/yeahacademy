@@ -7,8 +7,10 @@ Karla Hall is an accomplished and award winning artist in many mediums including
 
 ### Courses
 #### High School Classes:   
-* Acrylic Painting
+* Acrylic Painting 1
+* Acrylic Painting 2
 * Art Adventures
 * Art: Mixed Mediums
 * Drawing
 * AP Studio Art: Drawing
+* Art Explorations

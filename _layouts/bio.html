@@ -22,7 +22,7 @@
   </div>
   <div class="container spacer">
   <div class="eight columns offset-by-one">
-  <h2>{{ page.title }}</h2>
+  <h2>{{ page.title | replace: 'Dr', 'Dr.' | replace: 'Cb', 'CB'}}</h2>
     {{ content }}
     </div>
   </div>

@@ -2,7 +2,7 @@
 layout: course
 category: 'social'
 sub-category: 'social-history'
-title: 'Survey World History'
+title: 'World History, Survey'
 date: 2017-07-11
 tags: [book-required]
 TutorName: 'Janie Bender'

@@ -72,8 +72,8 @@ book-required
   {% endif %}
   {% endif %}
 
-<h4 class="meta"><strong>Tutor Name:</strong> <a href="/bios/{{post.TutorName | replace: 'Carla Barwineck, CB Productions Artistic Director', 'CB Productions' | | replace: 'Joy Carlson, CB Productions Teaching Artist', 'CB Productions' | slugify}}.html" />
-{{post.TutorName}}
+<h4 class="meta"><strong>Tutor Name:</strong> <a href="{{site.url}}/bios/{{post.TutorName | replace: 'Carla Barwineck, CB Productions Artistic Director', 'CB Productions' | | replace: 'Joy Carlson, CB Productions Teaching Artist', 'CB Productions' | slugify}}.html" />
+{{post.TutorName | replace: 'Dr', 'Dr.' | replace: 'Cb', 'CB'}}
 </a></h4>
 
   {% if post.TargetGroup %}
@@ -89,13 +89,13 @@ book-required
   <h4 class="warning"><strong>Prerequisite:</strong> {{post.Prerequisite}}</h4>
   {% endif %}
   {% if post.tags contains 'new' %}
-    <img src="../images/plus-simple-line-icons.svg" alt="new course" class="iconsWrap" />
+    <img src="{{site.url}}/images/plus-simple-line-icons.svg" alt="new course" class="iconsWrap" />
   {% endif %}
   {% if post.tags contains 'AP' %}
-    <img src="../images/badge-simple-line-icons.svg" alt="AP" class="iconsWrap" />
+    <img src="{{site.url}}images/badge-simple-line-icons.svg" alt="AP" class="iconsWrap" />
   {% endif %}
   {% if post.tags contains 'book-required' %}
-    <img src="../images/book-open-simple-line-icons.svg" alt="book-required" class="iconsWrap" />
+    <img src="{{site.url}}images/book-open-simple-line-icons.svg" alt="book-required" class="iconsWrap" />
   {% endif %}
   <div class="entry">
     {{ post.content | strip_html | truncatewords: 75 }}

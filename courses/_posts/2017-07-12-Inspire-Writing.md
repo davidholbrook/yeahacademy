@@ -12,6 +12,7 @@ Prerequisite: None
 ClassType: "Full Year, Open to mid-year entry if space is available; students of all experience levels are welcome."
 ---
 
+**NOTE: NOT BEING OFFERED 2017-18**
 ### Class Description:
 Capture the love of writing!  In this course, students learn how to bring writing to life through assignments designed to energize and motivate.  Through topics like extreme sports, incredible escapes, and conspiracy theories, students learn how to communicate and refine their writing styles.  Throughout this course, they will learn to build their writing, starting with a solid paragraph that grows into a strong essay, complete with an introduction, body, and conclusion.  Regardless of the student’s past experience with essays, this course will build the student’s confidence in developing and communicating his or her own ideas.  Our various forms of writing include the descriptive, expository, and persuasive responses, along with the short story, journal entry, and editorial response.  Assignments develop basic research skills.  Each response is critiqued in context based on grammar, mechanics, and content.
 

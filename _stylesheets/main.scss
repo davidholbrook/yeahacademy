@@ -202,6 +202,9 @@ $yeah: #f8aa29;
 	.move-over{
 		margin-left: 30px;
 	}
+  .align-bottom{
+    height: 11rem;
+  }
 }
 .post{
 	width: 500px;
@@ -290,9 +293,10 @@ $yeah: #f8aa29;
       }
     }
     @media(max-width: 1300px){
-        margin-top: -75px;
+        margin-top: -24px;
     }
 }
+// @path
 .grid__title--bios{
     background: url(/images/bios-logo.svg) left bottom no-repeat;
     p{

@@ -13,5 +13,5 @@ Carolyn Spargo was raised by as the daughter of a Swedish immigrant, speaking Sw
 #### PSEO Courses:
 * FA 112 Music Appreciation
 * Ensemble Seminar
-* Handbell Ensemble
+* Handbell Ensemble **Not Offered 2017-18**
 * Music Fundamentals **Not Offered 2017-18**

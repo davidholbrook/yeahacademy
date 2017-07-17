@@ -2,7 +2,7 @@
 layout: course
 category: 'arts'
 sub-category: 'art-dramatic'
-title: 'The Actor’s Scene'
+title: 'Actor’s Scene'
 date: 2017-07-11
 TutorName: 'Carla Barwineck, CB Productions Artistic Director'
 TargetGroup:  9th – 12th grades

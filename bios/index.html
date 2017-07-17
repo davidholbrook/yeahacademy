@@ -13,7 +13,7 @@ category: bio
 {% assign sortedPosts = site.posts | sort: 'title' %}
 {% for post in sortedPosts %}
 {% if post.layout contains 'bio' %}
-	<h3 class="title bio-select"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	<h3 class="title bio-select"><a href="{{ post.url }}">{{ post.Name }}</a></h3>
 	<div>{{ post.content }}</div>
 {% endif %}
 {% endfor %}

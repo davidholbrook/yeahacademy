@@ -16,6 +16,9 @@ Typically an 11th grade course. This course is designed to be a first-year high 
 
 **Required:** Internet access for students to receive class notices.
 
+### Texts:
+Discovering Design with Chemistry (2015) - Dr. Jay L. Wile presents a new high school course in Chemistry for Christians. **ISBN-13: 978-0996278461**
+
 ### Total Due
 *     $225.00 per semester               
 *     All course lab materials used in the classroom are provided by the tutor. 

@@ -11,4 +11,3 @@ Danielle Lee is the author of JumpStart Your Future: A Guide for the College-Bou
 #### High School Classes:
 * Inspire Writing
 * AP Language
-* Research and Composition

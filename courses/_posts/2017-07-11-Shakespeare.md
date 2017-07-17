@@ -11,6 +11,7 @@ Prerequisite: "Completed Level II with CB Productions or by special permission f
 ClassType: Full Year
 ---
 
+**NOTE: NOT BEING OFFERED 2017-18**
 ### Class Description:
 This in-depth scene study class will magically unlock Shakespeare’s code so that the actor can easily portray the rich characters and understand the beautiful words that are written on the page. Once students learn the key for reading this exquisite language, they will easily understand character intentions, double meaning and be able to apply these skills to any acting project. This important class for unlocking Shakespeare and his complex stories, culminates in a spring performance project performed at “Night of the Arts.”
 
