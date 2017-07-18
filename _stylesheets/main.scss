@@ -159,7 +159,8 @@ $yeah: #f8aa29;
   // hate myself
   margin-left: 15rem !important;
   @media(max-width: 550px){
-    margin-left: 0!important;
+    margin-left: 20px !important;
+    width: 90%;
   }
 		h2{
 			font-size: 1.87rem;
@@ -167,6 +168,10 @@ $yeah: #f8aa29;
 			font-weight: $font-weight-heavy;
 			margin-bottom: .5rem;
 		}
+    a{
+      text-decoration: none;
+      color: #ffffff;
+    }
     p{
       color: #ffffff;
       font-weight: $font-weight-regular;
@@ -201,9 +206,15 @@ $yeah: #f8aa29;
 	}
 	.move-over{
 		margin-left: 30px;
+    @media(max-width: 630px){
+      margin-left: 0;
+    }
 	}
   .align-bottom{
     height: 11rem;
+    @media(max-width: 630px){
+      height: inherit;
+    }
   }
 }
 .post{
@@ -220,7 +231,7 @@ $yeah: #f8aa29;
 
     @media(max-width: 400px){
       width: 100%;
-      margin: 0px
+      margin: 20px 0;
     }
   }
 
@@ -233,7 +244,6 @@ $yeah: #f8aa29;
     }
 }
 .grid__title{
-  height: 140px;
   width: 300px;
   margin-top: -40px;
   z-index: -1;
@@ -285,7 +295,8 @@ $yeah: #f8aa29;
 }
 // @path
 .grid__title--course{
-    background: url(/images/courses-logo.svg) left bottom no-repeat;
+    background: url(/images/courses-logo.svg) left -30px no-repeat;
+    height: 110px;
     p{
       @media(max-width: 1300px){
         top: 40px;
@@ -293,12 +304,12 @@ $yeah: #f8aa29;
       }
     }
     @media(max-width: 1300px){
-        margin-top: -24px;
+        margin-top: 0px;
     }
 }
 // @path
 .grid__title--bios{
-    background: url(/images/bios-logo.svg) left bottom no-repeat;
+    background: url(/images/bios-logo.svg) left -30px no-repeat;
     p{
       margin-top: 50px;
       margin-left: 30px;
@@ -312,7 +323,7 @@ $yeah: #f8aa29;
       }
       @media(max-width: 630px){
           margin: 0 0 0 10px;
-          width: 70%;
+          width: 90%;
       }
 
     }
@@ -320,7 +331,6 @@ $yeah: #f8aa29;
       float: none;
       width: 100%;
       margin-bottom: 20px;
-      margin-top: 20px;
     }
 }
 
@@ -385,7 +395,6 @@ $yeah: #f8aa29;
   @media(max-width: 1000px){
     padding-top: 30px;
     margin-top: 10px;
-    border-top: 5px solid #999;
   }
   @media (max-width: 400px) {
       width: 100%;
@@ -421,6 +430,9 @@ $yeah: #f8aa29;
       margin: 0 5px;
     }
   }
+  @media(max-width: 630px){
+    margin: 10px 0;
+  }
 }
 .is-checked{
   font-weight: 900;
@@ -430,6 +442,9 @@ $yeah: #f8aa29;
   width: 95%;
   font-size: 1.2rem;
   margin: 0 0 0 20px;
+  @media(max-width: 630px){
+    margin: 0 10px;
+  }
 }
 .ui-accordion-header{
   background: $the-academy;
@@ -441,4 +456,9 @@ $yeah: #f8aa29;
   font-size: 1.2rem;
   font-weight: $font-weight-heavy;
   margin-top: 20px;
+}
+.m-small{
+  @media(max-width: 630px){
+    font-size: .8rem;
+  }
 }

@@ -1,33 +1,4 @@
-/*
-* Skeleton V2.0.4
-* Copyright 2014, Dave Gamache
-* www.getskeleton.com
-* Free to use under the MIT license.
-* http://www.opensource.org/licenses/mit-license.php
-* 12/29/2014
-*/
 
-
-/* Table of contents
-––––––––––––––––––––––––––––––––––––––––––––––––––
-- Grid
-- Base Styles
-- Typography
-- Links
-- Buttons
-- Forms
-- Lists
-- Code
-- Tables
-- Spacing
-- Utilities
-- Clearing
-- Media Queries
-*/
-
-
-/* Grid
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
   position: relative;
   width: 100%;
@@ -41,14 +12,14 @@
   float: left;
   box-sizing: border-box; }
 
-/* For devices larger than 400px */
+
 @media (min-width: 400px) {
   .container {
     width: 85%;
     padding: 0; }
 }
 
-/* For devices larger than 550px */
+
 @media (min-width: 550px) {
   .container {
     width: 80%; }
@@ -78,7 +49,7 @@
 
   .one-half.column                { width: 48%; }
 
-  /* Offsets */
+
   .offset-by-one.column,
   .offset-by-one.columns          { margin-left: 8.66666666667%; }
   .offset-by-two.column,
@@ -112,20 +83,11 @@
 
 }
 
-
-/* Base Styles
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-/* NOTE
-html is set to 62.5% so that all the REM measurements throughout Skeleton
-are based on 10px sizing. So basically 1.5rem = 15px :) */
 body {
-  font-size: 100%; /* currently ems cause chrome bug misinterpreting rems on body element */
+  font-size: 100%; 
   font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; }
 
-
-/* Typography
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: .5rem;
@@ -137,7 +99,7 @@ h4 { font-size: 0.9rem; line-height: 1.35; }
 h5 { font-size: 0.6rem; line-height: 1.5; }
 h6 { font-size: 0.5rem; line-height: 1.6; }
 
-/* Larger than phablet */
+
 @media (min-width: 550px) {
   h1 { font-size: 2.5rem; }
   h2 { font-size: 2.0rem; }
@@ -153,16 +115,11 @@ strong {
   font-weight: bolder;
 }
 
-/* Links
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
   color: #1EAEDB; }
 a:hover {
   color: #0FA0CE; }
 
-
-/* Forms
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
 input[type="email"],
 input[type="number"],
 input[type="search"],
@@ -173,13 +130,12 @@ input[type="password"],
 textarea,
 select {
   height: 38px;
-  padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
+  padding: 6px 10px;
   background-color: #fff;
   border: 1px solid #D1D1D1;
   border-radius: 4px;
   box-shadow: none;
   box-sizing: border-box; }
-/* Removes awkward default styles on some inputs for iOS */
 input[type="email"],
 input[type="number"],
 input[type="search"],
@@ -222,9 +178,6 @@ label > .label-body {
   margin-left: .5rem;
   font-weight: normal; }
 
-
-/* Lists
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
 ul {
   list-style: circle inside; }
 ol {
@@ -241,8 +194,6 @@ ol ul {
 li {
   margin-bottom: 1rem; }
 
-/* Tables
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
 th,
 td {
   padding: 12px 15px;
@@ -255,8 +206,6 @@ th:last-child,
 td:last-child {
   padding-right: 0; }
 
-/* Utilities
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .u-full-width {
   width: 100%;
   box-sizing: border-box; }
@@ -268,20 +217,12 @@ td:last-child {
 .u-pull-left {
   float: left; }
 
-
-/* Misc
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
 hr {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
   border-width: 0;
   border-top: 1px solid #E1E1E1; }
 
-
-/* Clearing
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-/* Self Clearing Goodness */
 .container:after,
 .row:after,
 .u-cf {
@@ -289,28 +230,12 @@ hr {
   display: table;
   clear: both; }
 
-
-/* Media Queries
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-/*
-Note: The best way to structure the use of media queries is to create the queries
-near the relevant code. For example, if you wanted to change the styles for buttons
-on small devices, paste the mobile query code up in the buttons section and style it
-there.
-*/
-
-
-/* Larger than mobile */
 @media (min-width: 400px) {}
 
-/* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {}
 
-/* Larger than tablet */
 @media (min-width: 750px) {}
 
-/* Larger than desktop */
 @media (min-width: 1000px) {}
 
-/* Larger than Desktop HD */
 @media (min-width: 1200px) {}

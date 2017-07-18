@@ -10,7 +10,7 @@ category: bio
 
 <div class="grid__wrapper">
 <div id="accordion">
-{% assign sortedPosts = site.posts | sort: 'title' %}
+{% assign sortedPosts = site.posts | sort: 'Name' %}
 {% for post in sortedPosts %}
 {% if post.layout contains 'bio' %}
 	<h3 class="title bio-select"><a href="{{ post.url }}">{{ post.Name }}</a></h3>
