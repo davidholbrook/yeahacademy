@@ -19,6 +19,7 @@ Carla Barwineck started out her theatrical career as a professional actress, dir
 #### High School Courses:
 * Acting Level 2
 * Acting Level 3
+* Actor's Scene (Advance Training)
 * Shakespeare Unlocked
 * Advanced Scene Study
 * Playwriting & Directing

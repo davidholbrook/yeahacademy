@@ -138,6 +138,15 @@ $yeah: #f8aa29;
     }
   }
 }
+.mainNav.small{
+  @media(max-width: 630px){
+  font-size: .8rem;
+  li{
+    margin: 1.7rem .8rem;
+  }
+}
+}
+// @path
 .back_btn{
     margin: 1.5rem 1rem;
     a{
@@ -145,6 +154,18 @@ $yeah: #f8aa29;
       text-decoration: none;
       border-bottom: 1px solid;
       font-weight: $font-weight-heavy;
+    }
+    @media(max-width: 630px){
+      text-indent: -999999px;
+    }
+    img{
+      display: none;
+      @media(max-width: 630px){
+          display: block;
+          width: 40px;
+          height: 40px;
+          margin: -30px 0px;
+      }
     }
 }
 // @path

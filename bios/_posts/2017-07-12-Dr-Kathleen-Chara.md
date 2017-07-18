@@ -12,3 +12,4 @@ Dr. Kathleen Chara has earned a Ph.D. in Family Psychology at Capella University
 * Forensic Psychology
 * Social Psychology
 * Lifespan Psychology
+* Introduction to Psychology
