@@ -18,7 +18,8 @@
 markdown: kramdown
 permalink: none
 
-url: http://192.168.1.8:8005/
+# url: http://yeahacademy.net
+url:
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

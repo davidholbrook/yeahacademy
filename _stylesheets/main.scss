@@ -41,6 +41,10 @@ body {
 .center{
   text-align: center;
 }
+span.center{
+  display: block;
+  width: 100%;
+}
 
 // import them colors
 $the-academy: #112648;
@@ -154,19 +158,20 @@ $yeah: #f8aa29;
       text-decoration: none;
       border-bottom: 1px solid;
       font-weight: $font-weight-heavy;
+      img{
+        display: none;
+        @media(max-width: 630px){
+            display: block;
+            width: 40px;
+            height: 40px;
+            margin: -30px 0px;
+        }
+      }
     }
     @media(max-width: 630px){
       text-indent: -999999px;
     }
-    img{
-      display: none;
-      @media(max-width: 630px){
-          display: block;
-          width: 40px;
-          height: 40px;
-          margin: -30px 0px;
-      }
-    }
+
 }
 // @path
 .featImg{
@@ -479,6 +484,7 @@ $yeah: #f8aa29;
   margin-top: 20px;
 }
 .m-small{
+  text-align: center;
   @media(max-width: 630px){
     font-size: .8rem;
   }
